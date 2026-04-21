@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sports Headlines</title>
+  <title>Science Headlines</title>
   <style>
     :root {
       --bg: #111214;
@@ -100,7 +100,7 @@
     }
 
     .panel::before {
-      content: "SPORTS";
+      content: "SCIENCE";
       position: absolute;
       right: -18px;
       top: 50%;
@@ -293,23 +293,23 @@
 <body>
   <main class="board">
     <section class="media" id="mediaPanel">
-      <div class="media-fallback" id="mediaFallback">SPORTS</div>
+      <div class="media-fallback" id="mediaFallback">SCIENCE</div>
       <div class="media-overlay"></div>
     </section>
 
     <aside class="panel">
       <div class="header">
-        <div class="title">Sports Headlines</div>
+        <div class="title">Smithsonian Headlines</div>
       </div>
 
       <div class="story-wrap" id="storyWrap">
-        <div class="loading">Loading sports headlines…</div>
+        <div class="loading">Loading science headlines…</div>
       </div>
 
       <div class="footer">
         <div class="meta-left" id="metaTime">Live</div>
         <div class="dots" id="dots"></div>
-        <div id="sourceText">Source: ESPN</div>
+        <div id="sourceText">Source: Smithsonian</div>
       </div>
     </aside>
   </main>
@@ -432,7 +432,7 @@
       } catch (err) {
         console.error(err);
         mediaFallback.style.display = "grid";
-        storyWrap.innerHTML = `<div class="error">Could not load sports headlines.</div>`;
+        storyWrap.innerHTML = `<div class="error">Could not load science headlines.</div>`;
         dotsEl.innerHTML = "";
         metaTimeEl.textContent = "Unavailable";
         sourceTextEl.textContent = "Source unavailable";
