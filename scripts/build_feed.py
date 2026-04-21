@@ -14,7 +14,7 @@ import requests
 from bs4 import BeautifulSoup
 
 FEED_URL = "https://www.espn.com/espn/rss/news"
-MAX_ITEMS = 10
+MAX_ITEMS = 5
 OUTPUT_PATH = "data/stories.json"
 TIMEOUT = 20
 
