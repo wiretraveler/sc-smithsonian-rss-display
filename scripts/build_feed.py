@@ -13,7 +13,7 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup
 
-FEED_URL = "https://www.espn.com/espn/rss/news"
+FEED_URL = "https://www.smithsonianmag.com/rss/science-nature/"
 MAX_ITEMS = 5
 OUTPUT_PATH = "data/stories.json"
 TIMEOUT = 20
@@ -123,11 +123,11 @@ def enrich_story(story: dict[str, Any]) -> dict[str, Any]:
 
         story["image"] = absolutize(image, link)
         story["summary"] = clean_text(summary) or story.get("summary", "")
-        story["source"] = "ESPN"
+        story["source"] = "Smithsonian"
         return story
     except Exception:
         story["image"] = ""
-        story["source"] = "ESPN"
+        story["source"] = "Smithsonian"
         return story
 
 
