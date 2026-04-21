@@ -1,10 +1,10 @@
-# ESPN RSS Display
+# Smithsonian RSS Display
 
-Simple static display for ESPN headlines with article images.
+Simple static display for Smithsonian headlines with article images.
 
 ## Overview
 
-* Pulls headlines from ESPN RSS
+* Pulls headlines from Smithsonian RSS
 * Enriches each item by extracting metadata from the article page (`og:image`, summary)
 * Outputs structured data to `data/stories.json`
 * Frontend rotates through stories on a fixed interval
@@ -18,7 +18,7 @@ Simple static display for ESPN headlines with article images.
 ├── index.html
 ├── data/stories.json
 ├── scripts/build_feed.py
-└── .github/workflows/refresh-espn.yml
+└── .github/workflows/refresh-Smithsonian.yml
 ```
 
 ---
@@ -47,7 +47,7 @@ const ROTATE_MS = 18000;
 
 ## Run manually
 
-Actions → **Refresh ESPN feed** → Run workflow
+Actions → **Refresh Smithsonian feed** → Run workflow
 
 ---
 
