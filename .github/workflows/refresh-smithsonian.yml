@@ -1,4 +1,4 @@
-name: Refresh ESPN feed
+name: Refresh Smithsonian feed
 
 on:
   workflow_dispatch:
