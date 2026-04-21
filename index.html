@@ -3,51 +3,48 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ESPN Headlines Signage</title>
+  <title>Sports Headlines Signage</title>
   <style>
     :root {
-      --bg: #0f1724;
-      --panel: #142238;
-      --panel-2: #1a2c47;
-      --line: rgba(255,255,255,0.10);
-      --text: #f4f7fb;
-      --muted: #9fb0c9;
+      --bg: #0a1320;
+      --panel: rgba(8, 24, 43, 0.94);
+      --panel-2: rgba(14, 35, 61, 0.9);
+      --line: rgba(255,255,255,0.08);
+      --text: #f3f7fb;
+      --muted: #9eb1cb;
       --accent: #f2c94c;
-      --accent-2: #2d5bff;
-      --shadow: 0 18px 40px rgba(0,0,0,.30);
-      --radius: 26px;
+      --accent-2: #295fff;
+      --shadow: 0 18px 40px rgba(0,0,0,.28);
+      --radius: 24px;
+      --card-radius: 20px;
     }
 
     * { box-sizing: border-box; }
+
     html, body {
       margin: 0;
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background: #0b1320;
+      background: var(--bg);
       font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       color: var(--text);
     }
 
     body {
-      display: grid;
-      place-items: center;
-      padding: 24px;
       background:
-        radial-gradient(circle at top right, rgba(45,91,255,.18), transparent 28%),
-        linear-gradient(180deg, #0d1625 0%, #0a111c 100%);
+        radial-gradient(circle at top right, rgba(41,95,255,.14), transparent 28%),
+        linear-gradient(180deg, #0d1625 0%, #08111b 100%);
     }
 
     .board {
-      width: min(1344px, calc(100vw - 24px));
-      height: min(1080px, calc(100vh - 24px));
-      border-radius: var(--radius);
+      width: 100vw;
+      height: 100vh;
       overflow: hidden;
-      box-shadow: var(--shadow);
-      background: linear-gradient(135deg, #13233a 0%, #0d1828 58%, #11213a 100%);
       position: relative;
       display: grid;
-      grid-template-columns: 1.9fr .95fr;
+      grid-template-columns: 1.62fr 1fr;
+      background: linear-gradient(135deg, #13233a 0%, #0d1828 58%, #11213a 100%);
       isolation: isolate;
     }
 
@@ -62,89 +59,138 @@
     .board::before {
       background:
         linear-gradient(135deg, rgba(255,255,255,.03), transparent 28%),
-        radial-gradient(circle at 15% 10%, rgba(242,201,76,.10), transparent 18%),
-        radial-gradient(circle at 85% 90%, rgba(45,91,255,.16), transparent 24%);
+        radial-gradient(circle at 15% 10%, rgba(242,201,76,.08), transparent 18%),
+        radial-gradient(circle at 85% 90%, rgba(41,95,255,.12), transparent 24%);
       z-index: -2;
     }
 
     .board::after {
       background:
-        linear-gradient(125deg, transparent 0 72%, rgba(242,201,76,.20) 72.2% 72.5%, transparent 72.7%),
-        linear-gradient(160deg, transparent 0 84%, rgba(45,91,255,.25) 84.1% 84.4%, transparent 84.6%);
+        linear-gradient(125deg, transparent 0 72%, rgba(242,201,76,.14) 72.2% 72.5%, transparent 72.7%),
+        linear-gradient(160deg, transparent 0 84%, rgba(41,95,255,.22) 84.1% 84.4%, transparent 84.6%);
       z-index: -1;
     }
 
-    .left {
-      padding: 42px 34px 36px 34px;
+    .media {
+      position: relative;
+      overflow: hidden;
+      background: #0b1320;
+    }
+
+    .media img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: saturate(1.06) contrast(1.05);
+      opacity: 0;
+      transform: scale(1.03);
+      transition: opacity 700ms ease, transform 8000ms ease;
+    }
+
+    .media img.active {
+      opacity: 1;
+      transform: scale(1.0);
+    }
+
+    .media::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(7,12,20,.06) 0%, rgba(7,12,20,.00) 38%, rgba(7,12,20,.18) 100%),
+        linear-gradient(180deg, rgba(7,12,20,.06), rgba(7,12,20,.18));
+      pointer-events: none;
+    }
+
+    .text-panel {
+      position: relative;
       display: grid;
-      grid-template-rows: auto 1fr;
-      gap: 24px;
+      grid-template-rows: auto 1fr auto;
+      padding: 34px 34px 26px;
+      background:
+        radial-gradient(circle at 80% 12%, rgba(255,255,255,.05), transparent 22%),
+        radial-gradient(circle at 20% 80%, rgba(41,95,255,.14), transparent 26%),
+        linear-gradient(180deg, rgba(11,28,76,.95) 0%, rgba(8,20,52,.96) 100%);
+      border-left: 4px solid rgba(8,14,26,.55);
+      overflow: hidden;
+    }
+
+    .text-panel::before {
+      content: "SPORTS";
+      position: absolute;
+      right: -18px;
+      top: 50%;
+      transform: translateY(-50%) rotate(-90deg);
+      font-size: 150px;
+      font-weight: 900;
+      letter-spacing: -.06em;
+      color: rgba(255,255,255,.05);
+      pointer-events: none;
+    }
+
+    .text-panel::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(120deg, transparent 0 70%, rgba(242,201,76,.22) 70.2% 70.45%, transparent 70.7%),
+        linear-gradient(120deg, transparent 0 84%, rgba(242,201,76,.10) 84.2% 84.35%, transparent 84.5%);
+      pointer-events: none;
+      opacity: .9;
     }
 
     .header {
+      position: relative;
+      z-index: 1;
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 18px;
+      margin-bottom: 22px;
     }
 
-    .title-wrap {
-      display: flex;
-      align-items: baseline;
-      gap: 16px;
-      flex-wrap: wrap;
-    }
-
-    .brand {
-      font-size: 56px;
-      line-height: 1;
+    .kicker {
+      font-size: 21px;
       font-weight: 900;
-      letter-spacing: -.04em;
-      font-style: italic;
-      color: #f7f7f7;
-    }
-
-    .title {
-      font-size: 54px;
-      line-height: 1;
-      font-weight: 900;
-      letter-spacing: -.03em;
-      color: var(--accent);
+      letter-spacing: .16em;
       text-transform: uppercase;
+      color: var(--accent);
     }
 
     .updated {
       display: inline-flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       background: linear-gradient(90deg, #f3cf57, #efbd1c);
       color: #111827;
-      padding: 14px 20px;
-      border-radius: 16px 0 0 16px;
-      font-weight: 800;
-      font-size: 22px;
-      letter-spacing: .02em;
+      padding: 12px 16px;
+      border-radius: 14px 0 0 14px;
+      font-weight: 900;
+      font-size: 18px;
+      letter-spacing: .04em;
       text-transform: uppercase;
       white-space: nowrap;
     }
 
     .updated-dot {
-      width: 16px;
-      height: 16px;
+      width: 14px;
+      height: 14px;
       border-radius: 50%;
       border: 3px solid currentColor;
       position: relative;
+      flex: 0 0 auto;
     }
 
     .updated-dot::after {
       content: "";
       position: absolute;
       width: 2px;
-      height: 5px;
+      height: 4px;
       background: currentColor;
-      left: 50%; top: 2px;
+      left: 50%; top: 1px;
       transform: translateX(-50%);
-      border-radius: 2px;
     }
 
     .updated-dot::before {
@@ -153,220 +199,212 @@
       width: 4px;
       height: 2px;
       background: currentColor;
-      right: 2px; top: 50%;
+      right: 1px; top: 50%;
       transform: translateY(-50%);
-      border-radius: 2px;
     }
 
-    .list {
-      background: linear-gradient(180deg, rgba(17,40,68,.96), rgba(8,22,39,.96));
-      border: 1px solid rgba(255,255,255,.06);
-      border-radius: 24px;
-      padding: 12px 30px;
-      overflow: hidden;
-      display: grid;
-      grid-auto-rows: 1fr;
-    }
-
-    .item {
-      display: grid;
-      grid-template-columns: 34px 1fr;
-      gap: 18px;
-      align-items: start;
-      padding: 26px 0;
-      border-bottom: 1px solid var(--line);
-    }
-
-    .item:last-child { border-bottom: none; }
-
-    .bullet {
-      width: 18px;
-      height: 18px;
-      margin-top: 12px;
-      border-top: 5px solid var(--accent);
-      border-right: 5px solid var(--accent);
-      transform: rotate(45deg);
-    }
-
-    .headline {
-      font-size: 31px;
-      line-height: 1.28;
-      font-weight: 800;
-      letter-spacing: -.02em;
-      color: var(--text);
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .meta {
-      margin-top: 12px;
-      font-size: 18px;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: .04em;
-      color: #6f97ff;
-    }
-
-    .right {
-      position: relative;
-      background:
-        radial-gradient(circle at 80% 12%, rgba(255,255,255,.06), transparent 22%),
-        radial-gradient(circle at 20% 80%, rgba(45,91,255,.18), transparent 26%),
-        linear-gradient(180deg, #11255f 0%, #0c1c4c 100%);
-      border-left: 6px solid rgba(13,20,36,.65);
-      overflow: hidden;
-      display: grid;
-      place-items: center;
-      padding: 24px;
-    }
-
-    .right::before {
-      content: "SPORTS";
-      position: absolute;
-      inset: 0;
-      display: grid;
-      place-items: center;
-      font-size: 176px;
-      font-weight: 900;
-      letter-spacing: -.06em;
-      color: rgba(255,255,255,.06);
-      transform: rotate(-90deg) translateY(6%);
-    }
-
-    .right::after {
-      content: "";
-      position: absolute;
-      inset: -12% -8%;
-      background:
-        radial-gradient(circle at 30% 25%, rgba(255,255,255,.08) 0 1%, transparent 1.2% 100%),
-        linear-gradient(120deg, transparent 0 58%, rgba(242,201,76,.35) 58.2% 58.6%, transparent 58.8%),
-        linear-gradient(120deg, transparent 0 70%, rgba(242,201,76,.18) 70.2% 70.4%, transparent 70.6%),
-        linear-gradient(120deg, transparent 0 84%, rgba(242,201,76,.12) 84.2% 84.35%, transparent 84.5%);
-      opacity: .7;
-      mask: linear-gradient(180deg, rgba(0,0,0,.94), rgba(0,0,0,.65));
-    }
-
-    .badge {
+    .story-wrap {
       position: relative;
       z-index: 1;
       display: grid;
-      gap: 26px;
-      justify-items: center;
+      align-content: center;
+      min-height: 0;
     }
 
-    .espn {
-      font-size: 116px;
-      line-height: .9;
-      font-weight: 1000;
-      letter-spacing: -.08em;
-      font-style: italic;
-      color: #f2f4f7;
-      text-shadow: 0 10px 30px rgba(0,0,0,.25);
+    .story {
+      opacity: 0;
+      transform: translateY(16px);
+      transition: opacity 450ms ease, transform 450ms ease;
     }
 
-    .sports-news {
-      display: inline-block;
-      padding: 14px 26px;
-      background: linear-gradient(90deg, #f3cf57, #efbd1c);
-      color: #111827;
-      border-radius: 4px;
-      font-size: 28px;
-      font-weight: 900;
-      letter-spacing: .24em;
-      text-transform: uppercase;
-      box-shadow: 0 8px 18px rgba(0,0,0,.2);
+    .story.active {
+      opacity: 1;
+      transform: translateY(0);
     }
 
-    .footer {
-      position: absolute;
-      left: 34px;
-      right: 34px;
-      bottom: 18px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 18px;
-      font-size: 15px;
-      color: var(--muted);
-      opacity: .85;
-    }
-
-    .status {
+    .eyebrow {
       display: inline-flex;
       align-items: center;
       gap: 10px;
+      padding: 8px 12px;
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: 999px;
+      background: rgba(255,255,255,.04);
+      color: #b9c7db;
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      margin-bottom: 18px;
     }
 
-    .status::before {
+    .eyebrow::before {
       content: "";
       width: 9px;
       height: 9px;
       border-radius: 50%;
-      background: #31d0aa;
-      box-shadow: 0 0 0 4px rgba(49,208,170,.16);
+      background: var(--accent);
+      box-shadow: 0 0 0 4px rgba(242,201,76,.12);
     }
 
+    .headline {
+      font-size: clamp(44px, 4.25vw, 66px);
+      line-height: 1.06;
+      font-weight: 900;
+      letter-spacing: -.045em;
+      margin: 0 0 18px;
+      text-wrap: balance;
+    }
+
+    .summary {
+      font-size: clamp(21px, 1.8vw, 28px);
+      line-height: 1.34;
+      color: #d5deea;
+      max-width: 95%;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .meta-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 28px;
+      color: #8fa4c5;
+      font-size: 17px;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .meta-left {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .meta-left::before {
+      content: "";
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #31d0aa;
+      box-shadow: 0 0 0 4px rgba(49,208,170,.14);
+    }
+
+    .pager {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      padding-top: 18px;
+      border-top: 1px solid rgba(255,255,255,.08);
+    }
+
+    .dots {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .dot {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.18);
+      transition: transform 250ms ease, background 250ms ease;
+    }
+
+    .dot.active {
+      background: var(--accent);
+      transform: scale(1.2);
+    }
+
+    .count {
+      font-size: 16px;
+      font-weight: 900;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: #afc0d8;
+    }
+
+    .loading,
     .error {
       display: grid;
       place-items: center;
       text-align: center;
       padding: 40px;
-      font-size: 24px;
-      color: #ffcfb3;
+      height: 100%;
     }
 
-    @media (max-width: 1200px) {
-      .board { grid-template-columns: 1.75fr .85fr; }
-      .brand { font-size: 48px; }
-      .title { font-size: 46px; }
-      .updated { font-size: 18px; }
-      .headline { font-size: 28px; }
-      .espn { font-size: 90px; }
-      .sports-news { font-size: 22px; }
+    .loading {
+      color: #d6deeb;
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .error {
+      color: #ffd4b3;
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    @media (max-width: 1100px) {
+      .board { grid-template-columns: 1.35fr 1fr; }
+      .text-panel { padding: 28px 26px 22px; }
+      .headline { font-size: clamp(34px, 4vw, 52px); }
+      .summary { font-size: clamp(18px, 1.65vw, 24px); }
     }
   </style>
 </head>
 <body>
   <main class="board">
-    <section class="left">
+    <section class="media" id="mediaPanel">
+      <div class="loading" id="mediaFallback">Loading sports headlines…</div>
+    </section>
+
+    <aside class="text-panel">
       <div class="header">
-        <div class="title-wrap">
-          <div class="brand">ESPN</div>
-          <div class="title">Headlines</div>
-        </div>
+        <div class="kicker">Sports Headlines</div>
         <div class="updated"><span class="updated-dot"></span><span id="updatedText">Updating…</span></div>
       </div>
 
-      <div id="list" class="list" aria-live="polite"></div>
-    </section>
+      <div class="story-wrap" id="storyWrap">
+        <div class="loading">Loading sports headlines…</div>
+      </div>
 
-    <aside class="right">
-      <div class="badge">
-        <div class="espn">ESPN</div>
-        <div class="sports-news">Sports News</div>
+      <div class="pager">
+        <div class="dots" id="dots"></div>
+        <div class="count" id="countText">0 / 0</div>
       </div>
     </aside>
-
-    <div class="footer">
-      <div class="status">Live feed</div>
-      <div id="sourceText">Source: ESPN RSS</div>
-    </div>
   </main>
 
   <script>
     const FEED_URL = 'https://www.espn.com/espn/rss/news';
-    const MAX_ITEMS = 5;
+    const MAX_ITEMS = 10;
+    const ROTATE_MS = 8000;
     const REFRESH_MS = 5 * 60 * 1000;
 
-    // Quick start: this public endpoint makes static hosting easy for GitHub Pages.
-    // For long-term reliability, swap this for your own small proxy/worker.
+    // Fine for testing / GitHub Pages. For production reliability, use your own proxy.
     const JSON_FEED_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(FEED_URL)}`;
 
-    const listEl = document.getElementById('list');
+    const mediaPanel = document.getElementById('mediaPanel');
+    const mediaFallback = document.getElementById('mediaFallback');
+    const storyWrap = document.getElementById('storyWrap');
+    const dotsEl = document.getElementById('dots');
+    const countEl = document.getElementById('countText');
     const updatedEl = document.getElementById('updatedText');
-    const sourceEl = document.getElementById('sourceText');
+
+    let stories = [];
+    let currentIndex = 0;
+    let rotateTimer = null;
 
     function relativeTime(dateString) {
       const then = new Date(dateString).getTime();
@@ -386,24 +424,81 @@
       return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
     }
 
-    function renderItems(items) {
-      listEl.innerHTML = '';
-      items.slice(0, MAX_ITEMS).forEach(item => {
-        const row = document.createElement('article');
-        row.className = 'item';
-        row.innerHTML = `
-          <div class="bullet" aria-hidden="true"></div>
-          <div>
-            <div class="headline">${item.title}</div>
-            <div class="meta">${relativeTime(item.pubDate)}</div>
-          </div>
-        `;
-        listEl.appendChild(row);
+    function extractImage(item) {
+      if (item.thumbnail) return item.thumbnail;
+      const html = item.description || item.content || '';
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const img = doc.querySelector('img');
+      return img ? img.src : '';
+    }
+
+    function extractSummary(item) {
+      const html = item.description || item.content || '';
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const paragraphs = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
+      if (paragraphs.length) return paragraphs.join(' ');
+      const full = cleanText(html);
+      return full || 'Latest sports update from the feed.';
+    }
+
+    function preloadMedia(items) {
+      mediaPanel.querySelectorAll('img').forEach(img => img.remove());
+      let hasImage = false;
+      items.forEach((item, index) => {
+        if (!item.image) return;
+        const img = document.createElement('img');
+        img.src = item.image;
+        img.alt = item.title;
+        img.loading = index === 0 ? 'eager' : 'lazy';
+        mediaPanel.appendChild(img);
+        hasImage = true;
+      });
+      mediaFallback.style.display = hasImage ? 'none' : 'grid';
+    }
+
+    function renderDots() {
+      dotsEl.innerHTML = '';
+      stories.forEach((_, index) => {
+        const dot = document.createElement('span');
+        dot.className = `dot${index === currentIndex ? ' active' : ''}`;
+        dotsEl.appendChild(dot);
       });
     }
 
-    function renderError(message) {
-      listEl.innerHTML = `<div class="error">${message}</div>`;
+    function showStory(index) {
+      if (!stories.length) return;
+      currentIndex = index % stories.length;
+      const story = stories[currentIndex];
+
+      const images = Array.from(mediaPanel.querySelectorAll('img'));
+      images.forEach((img, idx) => {
+        img.classList.toggle('active', idx === currentIndex);
+      });
+      mediaFallback.style.display = story.image ? 'none' : 'grid';
+
+      storyWrap.innerHTML = `
+        <article class="story active">
+          <div class="eyebrow">Feed story ${currentIndex + 1}</div>
+          <h1 class="headline">${story.title}</h1>
+          <div class="summary">${story.summary}</div>
+          <div class="meta-row">
+            <div class="meta-left">${relativeTime(story.pubDate)}</div>
+            <div>Source: ESPN</div>
+          </div>
+        </article>
+      `;
+
+      countEl.textContent = `${currentIndex + 1} / ${stories.length}`;
+      updatedEl.textContent = `Updated ${relativeTime(stories[0]?.pubDate)}`;
+      renderDots();
+    }
+
+    function startRotation() {
+      clearInterval(rotateTimer);
+      if (stories.length <= 1) return;
+      rotateTimer = setInterval(() => {
+        showStory((currentIndex + 1) % stories.length);
+      }, ROTATE_MS);
     }
 
     async function loadFeed() {
@@ -416,19 +511,26 @@
           throw new Error('No feed items found');
         }
 
-        const items = data.items.map(item => ({
+        stories = data.items.slice(0, MAX_ITEMS).map(item => ({
           title: cleanText(item.title),
+          summary: extractSummary(item),
           pubDate: item.pubDate,
+          image: extractImage(item),
           link: item.link
         }));
 
-        renderItems(items);
-        updatedEl.textContent = `Updated ${relativeTime(items[0]?.pubDate)}`;
-        sourceEl.textContent = `Source: ${data.feed?.title || 'ESPN RSS'}`;
+        if (!stories.length) throw new Error('No usable stories found');
+
+        preloadMedia(stories);
+        showStory(0);
+        startRotation();
       } catch (err) {
         console.error(err);
-        renderError('Could not load ESPN headlines. Check the feed proxy or network access.');
+        mediaFallback.style.display = 'grid';
+        storyWrap.innerHTML = '<div class="error">Could not load sports headlines. Check the feed proxy or network access.</div>';
         updatedEl.textContent = 'Feed unavailable';
+        dotsEl.innerHTML = '';
+        countEl.textContent = '0 / 0';
       }
     }
 
