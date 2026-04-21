@@ -424,13 +424,29 @@
       return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
     }
 
-    function extractImage(item) {
-      if (item.thumbnail) return item.thumbnail;
-      const html = item.description || item.content || '';
-      const doc = new DOMParser().parseFromString(html, 'text/html');
-      const img = doc.querySelector('img');
-      return img ? img.src : '';
-    }
+function extractImage(item) {
+  if (item.thumbnail) return item.thumbnail;
+  if (item.enclosure && item.enclosure.link) return item.enclosure.link;
+
+  if (Array.isArray(item.enclosures) && item.enclosures.length) {
+    const imgEnclosure = item.enclosures.find(e => (e.type || "").startsWith("image/"));
+    if (imgEnclosure?.link) return imgEnclosure.link;
+  }
+
+  if (item.content) {
+    const doc = new DOMParser().parseFromString(item.content, 'text/html');
+    const img = doc.querySelector('img');
+    if (img?.src) return img.src;
+  }
+
+  if (item.description) {
+    const doc = new DOMParser().parseFromString(item.description, 'text/html');
+    const img = doc.querySelector('img');
+    if (img?.src) return img.src;
+  }
+
+  return '';
+}
 
     function extractSummary(item) {
       const html = item.description || item.content || '';
@@ -518,6 +534,11 @@
           image: extractImage(item),
           link: item.link
         }));
+
+        console.log(stories.map(s => ({
+  title: s.title,
+  image: s.image
+})));
 
         if (!stories.length) throw new Error('No usable stories found');
 
