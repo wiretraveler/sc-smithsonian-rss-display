@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-04-23T12:44:47Z",
+  "generatedAt": "2026-04-23T14:59:45Z",
   "stories": [
+    {
+      "title": "Camera Traps Reveal Iberian Lynxes Soaking Their Prey, a First-Ever Discovery Among Carnivores",
+      "link": "https://www.smithsonianmag.com/science-nature/camera-traps-reveal-iberian-lynxes-soaking-their-prey-a-first-ever-discovery-among-carnivores-180988591/",
+      "pubDate": "Thu, 23 Apr 2026 13:00:38 +0000",
+      "summary": "Scientists speculate that the wild cats are trying to improve hydration or ease their cubs’ transition to solid food. The finding points to resilience in one of the world’s most endangered felines",
+      "source": "ESPN",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/I1hc0J4iJtB1PAu_8i7nf6sKq-w=/fit-in/1600x0/filters:focal(497x331:498x332)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/0c/fc0c96bd-b46f-4204-bc40-6e96a5067f59/screenshot_2026-04-21_at_41725pm.png",
+      "pubDateIso": "2026-04-23T13:00:38+00:00"
+    },
     {
       "title": "Ancient Humans Mastered Fire. Now, Burning Fossil Fuels and Blazing Landscapes Threaten to ‘Undo the World’",
       "link": "https://www.smithsonianmag.com/science-nature/ancient-humans-mastered-fire-now-burning-fossil-fuels-and-blazing-landscapes-threaten-to-undo-the-world-180988531/",
@@ -36,15 +45,6 @@
       "source": "ESPN",
       "image": "https://th-thumbnailer.cdn-si-edu.com/pOviuOhUWXlsdQCBUMb2PRfTW-w=/fit-in/1600x0/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/c4/98c42f96-fc3f-4648-834b-ea453855cc39/smithmag-podcast-s04-ep25-foxes-article.jpg",
       "pubDateIso": "2026-04-09T10:15:00+00:00"
-    },
-    {
-      "title": "Earth's Smells Are Disappearing Because of Climate Change, and It's a Vast Cultural Loss",
-      "link": "https://www.smithsonianmag.com/science-nature/earths-smells-are-disappearing-because-of-climate-change-and-its-a-vast-cultural-loss-180988496/",
-      "pubDate": "Wed, 08 Apr 2026 12:57:09 +0000",
-      "summary": "A triple threat of pollution, extinction and warming temperatures is altering the way the planet smells. Scientists are only beginning to understand the stakes for humans",
-      "source": "ESPN",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/83BC1xPnCnQoG53m9hR0RZ3JT_k=/fit-in/1600x0/filters:focal(1027x734:1028x735)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/a5/24a55249-fa8e-4a74-a24e-6b8bcb240c86/gettyimages-626627090.jpg",
-      "pubDateIso": "2026-04-08T12:57:09+00:00"
     }
   ]
 }
