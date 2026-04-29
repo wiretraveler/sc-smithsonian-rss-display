@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-04-29T11:19:48Z",
+  "generatedAt": "2026-04-29T13:07:37Z",
   "stories": [
+    {
+      "title": "Cancer Survivors Are Living Longer but Still Have Complex Needs. That's Why Doctors and Advocates Want Post-Treatment Care Plans",
+      "link": "https://www.smithsonianmag.com/science-nature/cancer-survivors-are-living-longer-but-still-have-complex-needs-thats-why-doctors-and-advocates-want-post-treatment-care-plans-180988629/",
+      "pubDate": "Wed, 29 Apr 2026 11:30:00 +0000",
+      "summary": "Survivors have a heightened risk of developing cardiovascular disease, pain, insomnia, psychosocial distress and new cancers. Many, patient advocates say, are not receiving adequate long-term care",
+      "source": "ESPN",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/BXk2xNPXAKfDYdFH8yIO-SPF78o=/fit-in/1600x0/filters:focal(1558x579:1559x580)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/ab/b5ab3cb2-e96d-480d-8b8b-deed80c4e7e2/gettyimages-1468266588.jpg",
+      "pubDateIso": "2026-04-29T11:30:00+00:00"
+    },
     {
       "title": "Butterflies Are in Dramatic Decline Across North America. A Close Look at the Western Monarch Shows Why",
       "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
@@ -36,15 +45,6 @@
       "source": "ESPN",
       "image": "https://th-thumbnailer.cdn-si-edu.com/wJAtfa_4UKNuY7V4synOZ6SFA-8=/fit-in/1600x0/filters:focal(1069x702:1070x703)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/29/6329f0fc-722d-49fd-9932-cdf94afbbfea/gettyimages-1287660795.jpg",
       "pubDateIso": "2026-04-15T11:30:00+00:00"
-    },
-    {
-      "title": "What Lies Beyond Artemis 2? These Other Missions Are Setting Their Sights on the Moon This Year—and on a Future With Humans in Space",
-      "link": "https://www.smithsonianmag.com/science-nature/what-lies-beyond-artemis-2-these-other-missions-are-setting-their-sights-on-the-moon-this-yearand-on-a-future-with-humans-in-space-180988517/",
-      "pubDate": "Thu, 09 Apr 2026 14:02:00 +0000",
-      "summary": "As the historic lunar flyby comes to a close, space companies and nations around the world are also shooting for the moon. Upcoming landings aim to change the landscape of space exploration",
-      "source": "ESPN",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/qFRH3KRLS1xE2vox5K5GDBzRSlI=/fit-in/1600x0/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/b8/16b8ad0e-652d-49d9-b22e-9fb9bcf133bc/mainimage.webp",
-      "pubDateIso": "2026-04-09T14:02:00+00:00"
     }
   ]
 }
