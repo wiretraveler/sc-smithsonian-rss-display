@@ -78,6 +78,7 @@ def parse_feed(xml_text: str) -> list[dict[str, Any]]:
         raise RuntimeError("RSS feed parsed, but no <channel> element was found")
 
     items: list[dict[str, Any]] = []
+
     for item in channel.findall("item")[:MAX_ITEMS]:
         title = clean_text(item.findtext("title"))
         link = clean_text(item.findtext("link"))
@@ -116,18 +117,41 @@ def extract_meta(
 def absolutize(url: str, base: str) -> str:
     if not url:
         return ""
+
     if url.startswith("http://") or url.startswith("https://"):
         return url
+
     if url.startswith("//"):
         return "https:" + url
+
     if url.startswith("/"):
         parts = urlparse(base)
         return f"{parts.scheme}://{parts.netloc}{url}"
+
     return url
+
+
+def extract_original_smithsonian_image(image_url: str) -> str:
+    if not image_url:
+        return ""
+
+    if "th-thumbnailer.cdn-si-edu.com" not in image_url:
+        return image_url
+
+    match = re.search(
+        r"https://tf-cmsv2-smithsonianmag-media\.s3\.amazonaws\.com/.+$",
+        image_url,
+    )
+
+    if match:
+        return match.group(0)
+
+    return image_url
 
 
 def enrich_story(story: dict[str, Any]) -> dict[str, Any]:
     link = story.get("link", "")
+
     story["source"] = "Smithsonian"
     story["image"] = story.get("image", "")
 
@@ -137,17 +161,16 @@ def enrich_story(story: dict[str, Any]) -> dict[str, Any]:
     try:
         response = requests.get(link, headers=HEADERS, timeout=TIMEOUT)
         response.raise_for_status()
+
         soup = BeautifulSoup(response.text, "lxml")
 
-image = (
-    extract_meta(soup, name="twitter:image")
-    or extract_meta(soup, prop="og:image")
-)
+        image = (
+            extract_meta(soup, name="twitter:image")
+            or extract_meta(soup, prop="og:image")
+        )
 
-if "th-thumbnailer.cdn-si-edu.com" in image:
-    match = re.search(r"https://tf-cmsv2-smithsonianmag-media\.s3\.amazonaws\.com/.+$", image)
-    if match:
-        image = match.group(0)
+        image = extract_original_smithsonian_image(image)
+
         summary = (
             extract_meta(soup, prop="og:description")
             or extract_meta(soup, name="description")
@@ -156,6 +179,7 @@ if "th-thumbnailer.cdn-si-edu.com" in image:
 
         story["image"] = absolutize(image, link)
         story["summary"] = clean_text(summary) or story.get("summary", "")
+
     except Exception as exc:
         print(f"WARNING: enrich failed for {link}: {exc}", file=sys.stderr)
 
@@ -165,6 +189,7 @@ if "th-thumbnailer.cdn-si-edu.com" in image:
 def to_iso(pub_date: str) -> str:
     if not pub_date:
         return ""
+
     try:
         return parsedate_to_datetime(pub_date).isoformat()
     except Exception:
@@ -176,14 +201,21 @@ def build() -> dict[str, Any]:
     stories = parse_feed(xml_text)
 
     enriched: list[dict[str, Any]] = []
+
     for story in stories:
         enriched_story = enrich_story(story)
-        enriched_story["pubDateIso"] = to_iso(enriched_story.get("pubDate", ""))
+        enriched_story["pubDateIso"] = to_iso(
+            enriched_story.get("pubDate", "")
+        )
         enriched.append(enriched_story)
+
         time.sleep(0.4)
 
     return {
-        "generatedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "generatedAt": time.strftime(
+            "%Y-%m-%dT%H:%M:%SZ",
+            time.gmtime(),
+        ),
         "stories": enriched,
     }
 
@@ -191,14 +223,21 @@ def build() -> dict[str, Any]:
 def main() -> int:
     try:
         payload = build()
+
         os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+
         with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
+
         print(f"Wrote {OUTPUT_PATH}")
+
         return 0
+
     except Exception as exc:
         traceback.print_exc()
+
         print(f"ERROR: {exc}", file=sys.stderr)
+
         return 1
 
 
