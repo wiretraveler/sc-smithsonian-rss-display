@@ -139,10 +139,15 @@ def enrich_story(story: dict[str, Any]) -> dict[str, Any]:
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "lxml")
 
-        image = (
-            extract_meta(soup, prop="og:image")
-            or extract_meta(soup, name="twitter:image")
-        )
+image = (
+    extract_meta(soup, name="twitter:image")
+    or extract_meta(soup, prop="og:image")
+)
+
+if "th-thumbnailer.cdn-si-edu.com" in image:
+    match = re.search(r"https://tf-cmsv2-smithsonianmag-media\.s3\.amazonaws\.com/.+$", image)
+    if match:
+        image = match.group(0)
         summary = (
             extract_meta(soup, prop="og:description")
             or extract_meta(soup, name="description")
