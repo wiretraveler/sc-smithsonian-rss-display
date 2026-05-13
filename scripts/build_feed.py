@@ -128,7 +128,7 @@ def absolutize(url: str, base: str) -> str:
 
 def enrich_story(story: dict[str, Any]) -> dict[str, Any]:
     link = story.get("link", "")
-    story["source"] = "ESPN"
+    story["source"] = "Smithsonian"
     story["image"] = story.get("image", "")
 
     if not link:
