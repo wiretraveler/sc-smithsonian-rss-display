@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-05-15T10:06:16Z",
+  "generatedAt": "2026-05-15T12:10:44Z",
   "stories": [
+    {
+      "title": "Does the Experience of Beauty Show Up in the Brain? With Electrodes and a Museum Collection of Artifacts, These Neuroscientists Aim to Find Out",
+      "link": "https://www.smithsonianmag.com/science-nature/does-the-experience-of-beauty-show-up-in-the-brain-with-electrodes-and-a-museum-collection-of-artifacts-these-neuroscientists-aim-to-find-out-180988737/",
+      "pubDate": "Fri, 15 May 2026 11:30:00 +0000",
+      "summary": "Researchers are tracing the brain and body’s response to aesthetic expression in search of a scientific value to art",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/71/e2710538-c2f3-4f51-b602-62117ad500e7/smithmag-brainonart-v2.jpg",
+      "pubDateIso": "2026-05-15T11:30:00+00:00"
+    },
     {
       "title": "Pregnancy Changes Mothers' Brains. These Recent Discoveries Are Showing Us How",
       "link": "https://www.smithsonianmag.com/science-nature/pregnancy-changes-mothers-brains-these-recent-discoveries-are-showing-us-how-180988713/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/ab/b5ab3cb2-e96d-480d-8b8b-deed80c4e7e2/gettyimages-1468266588.jpg",
       "pubDateIso": "2026-04-29T11:30:00+00:00"
-    },
-    {
-      "title": "Butterflies Are in Dramatic Decline Across North America. A Close Look at the Western Monarch Shows Why",
-      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "pubDate": "Fri, 24 Apr 2026 15:42:27 +0000",
-      "summary": "Pesticides, habitat loss and climate change have taken their toll on the beloved insects. But the experts working with them still find hope for their future",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/cc/f0cccc48-0697-4243-89b0-1e93aa195dc2/dsc_0152.jpg",
-      "pubDateIso": "2026-04-24T15:42:27+00:00"
     }
   ]
 }
