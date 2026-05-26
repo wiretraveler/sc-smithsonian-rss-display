@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-05-26T08:23:11Z",
+  "generatedAt": "2026-05-26T14:22:03Z",
   "stories": [
+    {
+      "title": "Brazil Lost 80 Percent of Its National Museum Collection in One Night. Here's How It's Fighting to Rebuild",
+      "link": "https://www.smithsonianmag.com/science-nature/brazil-lost-80-percent-of-its-national-museum-collection-in-one-night-heres-how-its-fighting-to-rebuild-180988796/",
+      "pubDate": "Tue, 26 May 2026 11:00:49 +0000",
+      "summary": "Ever since a 2018 blaze destroyed priceless artifacts and scientifically important specimens, museum staff have devoted themselves to reopening its doors to the public",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/63/8c63d32b-0c6c-42d8-93a0-c3da48f7acd0/copia_de_dji_0151.jpg",
+      "pubDateIso": "2026-05-26T11:00:49+00:00"
+    },
     {
       "title": "Melting Mountain Ice Is Bringing Ancient Secrets to the Surface. Archaeologists Are Racing to Find the Artifacts Before They're Lost to Time",
       "link": "https://www.smithsonianmag.com/science-nature/melting-mountain-ice-is-bringing-ancient-secrets-to-the-surface-archaeologists-are-racing-to-find-the-artifacts-before-theyre-lost-to-time-180988777/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/a9/cda924fc-2458-454b-bbec-70022e51f046/smithmag-attenborough-v2.jpg",
       "pubDateIso": "2026-05-07T20:07:28+00:00"
-    },
-    {
-      "title": "Nearly Half of Italy's Wolves Are Part Dog Now, Thanks to Hybridization. Is That a Threat to the Species?",
-      "link": "https://www.smithsonianmag.com/science-nature/nearly-half-of-italys-wolves-are-part-dog-now-thanks-to-hybridization-is-that-a-threat-to-the-species-180988682/",
-      "pubDate": "Wed, 06 May 2026 11:30:00 +0000",
-      "summary": "Wolf-dog hybrids are growing far more common in Italy, raising scientists’ concerns for the future of the wolves",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/cb/21cb1dbf-cc28-4fd8-a835-f13a16b01d5b/header-italian-wolf-hybrids.jpg",
-      "pubDateIso": "2026-05-06T11:30:00+00:00"
     }
   ]
 }
