@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-04T12:10:00Z",
+  "generatedAt": "2026-06-04T15:43:36Z",
   "stories": [
+    {
+      "title": "A Blip on a Telescope in a Colorado Parking Lot Bolstered a Space Mission That Has Found Thousands of Planets … and Counting",
+      "link": "https://www.smithsonianmag.com/science-nature/blip-telescope-colorado-parking-lot-bolstered-space-mission-found-thousands-planets-counting-180988801/",
+      "pubDate": "Thu, 04 Jun 2026 13:00:00 +0000",
+      "summary": "The Kepler telescope changed how we saw the sky. It’s just one of the devices we’ve sent out beyond the reach of humans to search our solar system",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/d8/22d844dd-b4e8-4dd7-be37-7215d6e4aa05/kepler-by_ethan_kruse.jpg",
+      "pubDateIso": "2026-06-04T13:00:00+00:00"
+    },
     {
       "title": "What Was the Biggest Dinosaur? Fragmentary Fossils Make It Hard to Tell",
       "link": "https://www.smithsonianmag.com/science-nature/what-was-the-biggest-dinosaur-fragmentary-fossils-make-it-hard-to-tell-180988840/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/71/e2710538-c2f3-4f51-b602-62117ad500e7/smithmag-brainonart-v2.jpg",
       "pubDateIso": "2026-05-15T11:30:00+00:00"
-    },
-    {
-      "title": "Pregnancy Changes Mothers' Brains. These Recent Discoveries Are Showing Us How",
-      "link": "https://www.smithsonianmag.com/science-nature/pregnancy-changes-mothers-brains-these-recent-discoveries-are-showing-us-how-180988713/",
-      "pubDate": "Sat, 09 May 2026 00:23:25 +0000",
-      "summary": "“Baby brain” isn’t the deficit it’s stereotyped to be, research suggests. Neural adaptations during pregnancy can prime soon-to-be-moms to become more attuned to their children and enhance social cognition",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/68/7568516e-b516-4e5b-ab9b-971e270277af/gettyimages-2268670039.jpg",
-      "pubDateIso": "2026-05-09T00:23:25+00:00"
     }
   ]
 }
