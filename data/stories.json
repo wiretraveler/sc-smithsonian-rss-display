@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-05T16:18:06Z",
+  "generatedAt": "2026-06-05T18:21:17Z",
   "stories": [
+    {
+      "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
+      "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+      "pubDate": "Fri, 05 Jun 2026 17:52:22 +0000",
+      "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn. The findings hint at consequences that may ripple through ecosystems",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/c8/48c8cc32-5430-4d56-a0c6-60d740290ff3/ezgif-833620f7a32017fe.jpg",
+      "pubDateIso": "2026-06-05T17:52:22+00:00"
+    },
     {
       "title": "In the Early 1900s, a Young Ecologist Shot a Wolf and Watched the Life Leave Its Eyes. That Changed His Position on Conservation",
       "link": "https://www.smithsonianmag.com/science-nature/early-1900s-member-forestry-service-shot-wolf-watched-life-leave-its-eyes-that-changed-position-convservation-forever-180988809/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/63/8c63d32b-0c6c-42d8-93a0-c3da48f7acd0/copia_de_dji_0151.jpg",
       "pubDateIso": "2026-05-26T11:00:49+00:00"
-    },
-    {
-      "title": "Melting Mountain Ice Is Bringing Ancient Secrets to the Surface. Archaeologists Are Racing to Find the Artifacts Before They're Lost to Time",
-      "link": "https://www.smithsonianmag.com/science-nature/melting-mountain-ice-is-bringing-ancient-secrets-to-the-surface-archaeologists-are-racing-to-find-the-artifacts-before-theyre-lost-to-time-180988777/",
-      "pubDate": "Thu, 21 May 2026 18:52:04 +0000",
-      "summary": "In Norway’s highest mountains, experts are scouring perilous terrain for pieces of the past, long stored in mint condition in ice patches. As temperatures rise across the world, glacial archaeologists must find the emerging artifacts before they degrade forever",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3c/d2/3cd2b9a5-04c9-4389-86c6-98a166569bc1/4.jpg",
-      "pubDateIso": "2026-05-21T18:52:04+00:00"
     }
   ]
 }
