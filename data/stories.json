@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-11T06:25:44Z",
+  "generatedAt": "2026-06-11T11:09:27Z",
   "stories": [
+    {
+      "title": "The Operating Room Where Anesthesia Was First Demonstrated Is Now a Landmark. But for the Men Who Claimed Credit, There Was Much Misery",
+      "link": "https://www.smithsonianmag.com/science-nature/operating-room-where-anesthesia-first-demonstrated-now-landmark-men-claimed-credit-much-misery-180988842/",
+      "pubDate": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "summary": "Medical procedures used to be a scream-filled endurance test until doctors at this Boston institution learned to tame the pain of patients",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/8e/f58ebfc6-8841-4651-a571-ea14a01dc995/opener_-_250630_smithsonian_etherdome-0122_copy.jpg",
+      "pubDateIso": "2026-06-11T10:00:00+00:00"
+    },
     {
       "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
       "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/d7/d2d7bd63-6592-4eb8-bc5e-846f5cb6cae4/gettyimages-870596224.jpg",
       "pubDateIso": "2026-05-28T14:58:30+00:00"
-    },
-    {
-      "title": "Brazil Lost 80 Percent of Its National Museum Collection in One Night. Here's How It's Fighting to Rebuild",
-      "link": "https://www.smithsonianmag.com/science-nature/brazil-lost-80-percent-of-its-national-museum-collection-in-one-night-heres-how-its-fighting-to-rebuild-180988796/",
-      "pubDate": "Tue, 26 May 2026 11:00:49 +0000",
-      "summary": "Ever since a 2018 blaze destroyed priceless artifacts and scientifically important specimens, museum staff have devoted themselves to reopening its doors to the public",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/63/8c63d32b-0c6c-42d8-93a0-c3da48f7acd0/copia_de_dji_0151.jpg",
-      "pubDateIso": "2026-05-26T11:00:49+00:00"
     }
   ]
 }
