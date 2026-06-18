@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-18T16:31:06Z",
+  "generatedAt": "2026-06-18T19:09:12Z",
   "stories": [
+    {
+      "title": "A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land",
+      "link": "https://www.smithsonianmag.com/science-nature/a-vietnam-veteran-collected-fossils-for-66-years-one-mislabeled-baby-lamprey-made-paleontologists-reconsider-how-vertebrates-moved-from-water-to-land-180988981/",
+      "pubDate": "Thu, 18 Jun 2026 18:15:32 +0000",
+      "summary": "The fossil turned out to be a hatchling of a crocodile-like creature, and it suggests, according to a new study, that early animals did not use metamorphosis to evolve to dwell on land",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/df/77df2952-db82-4627-80ba-c8bd8ba4ad0c/illustration_by_berit_goding.jpg",
+      "pubDateIso": "2026-06-18T18:15:32+00:00"
+    },
     {
       "title": "When a Team of Meteorologists and Combat Pilots Set Out to Understand Thunderstorms, They Made Flying Safer for Everyone",
       "link": "https://www.smithsonianmag.com/science-nature/when-team-meteorologists-combat-pilots-set-out-understand-thunderstorms-made-flying-safer-everyone-180988841/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/dd/05dde32f-3d0b-4faf-baac-5a8649056ea0/aldo_leopold.jpg",
       "pubDateIso": "2026-06-05T11:00:00+00:00"
-    },
-    {
-      "title": "A Blip on a Telescope in a Colorado Parking Lot Bolstered a Space Mission That Has Found Thousands of Planets … and Counting",
-      "link": "https://www.smithsonianmag.com/science-nature/blip-telescope-colorado-parking-lot-bolstered-space-mission-found-thousands-planets-counting-180988801/",
-      "pubDate": "Thu, 04 Jun 2026 13:00:00 +0000",
-      "summary": "The Kepler telescope changed how we saw the sky. It’s just one of the devices we’ve sent out beyond the reach of humans to search our solar system",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/d8/22d844dd-b4e8-4dd7-be37-7215d6e4aa05/kepler-by_ethan_kruse.jpg",
-      "pubDateIso": "2026-06-04T13:00:00+00:00"
     }
   ]
 }
