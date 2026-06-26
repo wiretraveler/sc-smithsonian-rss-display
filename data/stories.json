@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-26T17:23:46Z",
+  "generatedAt": "2026-06-26T19:18:01Z",
   "stories": [
+    {
+      "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
+      "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
+      "pubDate": "Fri, 26 Jun 2026 18:00:00 +0000",
+      "summary": "Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals. Now, NOAA is calling the regulations into question, raising concerns for the mammals’ future",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/72/cb726792-ecc1-446c-b20b-ce1ce610ebe3/ezgif-7013df4c21cb050d.jpg",
+      "pubDateIso": "2026-06-26T18:00:00+00:00"
+    },
     {
       "title": "A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land",
       "link": "https://www.smithsonianmag.com/science-nature/a-vietnam-veteran-collected-fossils-for-66-years-one-mislabeled-baby-lamprey-made-paleontologists-reconsider-how-vertebrates-moved-from-water-to-land-180988981/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/c8/48c8cc32-5430-4d56-a0c6-60d740290ff3/ezgif-833620f7a32017fe.jpg",
       "pubDateIso": "2026-06-05T17:52:22+00:00"
-    },
-    {
-      "title": "In the Early 1900s, a Young Ecologist Shot a Wolf and Watched the Life Leave Its Eyes. That Changed His Position on Conservation",
-      "link": "https://www.smithsonianmag.com/science-nature/early-1900s-member-forestry-service-shot-wolf-watched-life-leave-its-eyes-that-changed-position-convservation-forever-180988809/",
-      "pubDate": "Fri, 05 Jun 2026 11:00:00 +0000",
-      "summary": "Aldo Leopold’s writing reconsidered the place of humans in the natural world and challenged people to be less conquerors of the land and more citizens of it",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/dd/05dde32f-3d0b-4faf-baac-5a8649056ea0/aldo_leopold.jpg",
-      "pubDateIso": "2026-06-05T11:00:00+00:00"
     }
   ]
 }
