@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-06-29T15:04:28Z",
+  "generatedAt": "2026-06-29T17:47:37Z",
   "stories": [
+    {
+      "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
+      "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
+      "pubDate": "Mon, 29 Jun 2026 16:02:32 +0000",
+      "summary": "In the latest research, telescope observations of 3I/ATLAS examine its chemical structure and suggest that it took shape in a peripheral region of a relatively calm planetary system",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/0d/b20db74d-3a38-49aa-b8c2-26e38cfd4944/noirlab2525b.jpg",
+      "pubDateIso": "2026-06-29T16:02:32+00:00"
+    },
     {
       "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
       "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/8e/f58ebfc6-8841-4651-a571-ea14a01dc995/opener_-_250630_smithsonian_etherdome-0122_copy.jpg",
       "pubDateIso": "2026-06-11T10:00:00+00:00"
-    },
-    {
-      "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
-      "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
-      "pubDate": "Fri, 05 Jun 2026 17:52:22 +0000",
-      "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn. The findings hint at consequences that may ripple through ecosystems",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/c8/48c8cc32-5430-4d56-a0c6-60d740290ff3/ezgif-833620f7a32017fe.jpg",
-      "pubDateIso": "2026-06-05T17:52:22+00:00"
     }
   ]
 }
