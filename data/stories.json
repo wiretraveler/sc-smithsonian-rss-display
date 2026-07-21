@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-21T15:54:06Z",
+  "generatedAt": "2026-07-21T17:18:07Z",
   "stories": [
+    {
+      "title": "A Massive Flow of Rock and Mud Tumbled Down Mount Rainier Centuries Ago. Scientists Pinpointed Its Date to Better Understand the Volcano's Complex Threats",
+      "link": "https://www.smithsonianmag.com/science-nature/a-massive-flow-of-rock-and-mud-tumbled-down-mount-rainier-centuries-ago-scientists-pinpointed-its-date-to-better-understand-the-volcanos-complex-threats-180989162/",
+      "pubDate": "Tue, 21 Jul 2026 16:48:00 +0000",
+      "summary": "In a recent study, researchers dated a historic lahar called the Electron Mudflow to the summer of 1507, establishing a way to determine when past geologic events around the Puget Sound occurred",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/36/69/36698a0a-640f-428f-8f74-645e7bd147c1/gettyimages-2169784114.jpg",
+      "pubDateIso": "2026-07-21T16:48:00+00:00"
+    },
     {
       "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
       "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/f6/a6f69982-d239-479d-b8ed-1442d130b16b/opener_-_mitch_dobrowner_lightning_strikes.jpg",
       "pubDateIso": "2026-06-15T12:00:00+00:00"
-    },
-    {
-      "title": "The Operating Room Where Anesthesia Was First Demonstrated Is Now a Landmark. But for the Men Who Claimed Credit, There Was Much Misery",
-      "link": "https://www.smithsonianmag.com/science-nature/operating-room-where-anesthesia-first-demonstrated-now-landmark-men-claimed-credit-much-misery-180988842/",
-      "pubDate": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "summary": "Medical procedures used to be a scream-filled endurance test until doctors at this Boston institution learned to tame the pain of patients",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/8e/f58ebfc6-8841-4651-a571-ea14a01dc995/opener_-_250630_smithsonian_etherdome-0122_copy.jpg",
-      "pubDateIso": "2026-06-11T10:00:00+00:00"
     }
   ]
 }
