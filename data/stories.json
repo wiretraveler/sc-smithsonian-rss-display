@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-27T18:03:39Z",
+  "generatedAt": "2026-07-27T19:53:11Z",
   "stories": [
+    {
+      "title": "Predatory Sharks Grew to Enormous Sizes in Prehistoric Times. These Five Strategies Helped Them Get So Big",
+      "link": "https://www.smithsonianmag.com/science-nature/predatory-sharks-grew-to-enormous-sizes-in-prehistoric-times-these-five-strategies-helped-them-get-so-big-180989199/",
+      "pubDate": "Mon, 27 Jul 2026 18:22:30 +0000",
+      "summary": "By cannibalizing their siblings in the womb or avoiding meat-eating pliosaurs, fearsome carnivores like the megalodon ballooned to proportions that would dwarf any shark alive today",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/c2/3ec2180a-a238-4b81-8841-2285409305be/img_2825.jpg",
+      "pubDateIso": "2026-07-27T18:22:30+00:00"
+    },
     {
       "title": "A Massive Flow of Rock and Mud Tumbled Down Mount Rainier Centuries Ago. Scientists Pinpointed Its Date to Better Understand the Volcano's Complex Threats",
       "link": "https://www.smithsonianmag.com/science-nature/a-massive-flow-of-rock-and-mud-tumbled-down-mount-rainier-centuries-ago-scientists-pinpointed-its-date-to-better-understand-the-volcanos-complex-threats-180989162/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/df/77df2952-db82-4627-80ba-c8bd8ba4ad0c/illustration_by_berit_goding.jpg",
       "pubDateIso": "2026-06-18T18:15:32+00:00"
-    },
-    {
-      "title": "When a Team of Meteorologists and Combat Pilots Set Out to Understand Thunderstorms, They Made Flying Safer for Everyone",
-      "link": "https://www.smithsonianmag.com/science-nature/when-team-meteorologists-combat-pilots-set-out-understand-thunderstorms-made-flying-safer-everyone-180988841/",
-      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
-      "summary": "The sky was a very dangerous place in the early days of commercial aviation. By flying into storms to learn how they worked, these experts made air travel and weather forecasting much more predictable",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/f6/a6f69982-d239-479d-b8ed-1442d130b16b/opener_-_mitch_dobrowner_lightning_strikes.jpg",
-      "pubDateIso": "2026-06-15T12:00:00+00:00"
     }
   ]
 }
