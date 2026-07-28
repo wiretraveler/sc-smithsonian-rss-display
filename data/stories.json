@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-28T20:43:00Z",
+  "generatedAt": "2026-07-28T21:47:38Z",
   "stories": [
+    {
+      "title": "A Little-Known Photographer Captured the First Clear Image of a Total Solar Eclipse 175 Years Ago. Today, These Celestial Events Still Reveal the Mysteries of the Sun",
+      "link": "https://www.smithsonianmag.com/science-nature/a-little-known-photographer-captured-the-first-clear-image-of-a-total-solar-eclipse-175-years-ago-today-these-celestial-events-still-reveal-the-mysteries-of-the-sun-180989208/",
+      "pubDate": "Tue, 28 Jul 2026 20:40:00 +0000",
+      "summary": "Ever since that first daguerreotype on a light-sensitive metal plate, eclipse observations have continued to unveil the star's corona and bring people together to experience the solar system's majesty",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/f8/2bf8fcd4-1756-46ef-927b-394ec4814573/1851_07_28_berkowski.jpg",
+      "pubDateIso": "2026-07-28T20:40:00+00:00"
+    },
     {
       "title": "Predatory Sharks Grew to Enormous Sizes in Prehistoric Times. These Five Strategies Helped Them Get So Big",
       "link": "https://www.smithsonianmag.com/science-nature/predatory-sharks-grew-to-enormous-sizes-in-prehistoric-times-these-five-strategies-helped-them-get-so-big-180989199/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/72/cb726792-ecc1-446c-b20b-ce1ce610ebe3/ezgif-7013df4c21cb050d.jpg",
       "pubDateIso": "2026-06-26T18:00:00+00:00"
-    },
-    {
-      "title": "A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land",
-      "link": "https://www.smithsonianmag.com/science-nature/a-vietnam-veteran-collected-fossils-for-66-years-one-mislabeled-baby-lamprey-made-paleontologists-reconsider-how-vertebrates-moved-from-water-to-land-180988981/",
-      "pubDate": "Thu, 18 Jun 2026 18:15:32 +0000",
-      "summary": "The fossil turned out to be a hatchling of a crocodile-like creature, and it suggests, according to a new study, that early animals did not use metamorphosis to evolve to dwell on land",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/df/77df2952-db82-4627-80ba-c8bd8ba4ad0c/illustration_by_berit_goding.jpg",
-      "pubDateIso": "2026-06-18T18:15:32+00:00"
     }
   ]
 }
