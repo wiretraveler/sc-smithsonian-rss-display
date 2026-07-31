@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-31T21:46:19Z",
+  "generatedAt": "2026-07-31T22:58:42Z",
   "stories": [
+    {
+      "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
+      "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
+      "pubDate": "Fri, 31 Jul 2026 22:33:21 +0000",
+      "summary": "A century ago, resident wolves were eliminated from the park. In 1995, biologists brought them back, marking a historic reintroduction of a top carnivore",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
+      "pubDateIso": "2026-07-31T22:33:21+00:00"
+    },
     {
       "title": "A Little-Known Photographer Captured the First Clear Image of a Total Solar Eclipse 175 Years Ago. Today, These Celestial Events Still Reveal the Mysteries of the Sun",
       "link": "https://www.smithsonianmag.com/science-nature/a-little-known-photographer-captured-the-first-clear-image-of-a-total-solar-eclipse-175-years-ago-today-these-celestial-events-still-reveal-the-mysteries-of-the-sun-180989208/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/0d/b20db74d-3a38-49aa-b8c2-26e38cfd4944/noirlab2525b.jpg",
       "pubDateIso": "2026-06-29T16:02:32+00:00"
-    },
-    {
-      "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
-      "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
-      "pubDate": "Fri, 26 Jun 2026 18:00:00 +0000",
-      "summary": "Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals. Now, NOAA is calling the regulations into question, raising concerns for the mammals’ future",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/72/cb726792-ecc1-446c-b20b-ce1ce610ebe3/ezgif-7013df4c21cb050d.jpg",
-      "pubDateIso": "2026-06-26T18:00:00+00:00"
     }
   ]
 }
