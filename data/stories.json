@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-07T19:15:04Z",
+  "generatedAt": "2026-08-07T20:01:50Z",
   "stories": [
+    {
+      "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
+      "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
+      "pubDate": "Fri, 07 Aug 2026 19:15:18 +0000",
+      "summary": "For 20 years, the National Geographic photographer has showcased Earth’s animals in a series of striking images that make even the tiniest creatures look immense",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/76/837646bc-4431-4d99-843a-4df325ee157f/08_-_koalas_cr_joel_sartore-national_geographic_photo_ark_11481509.jpg",
+      "pubDateIso": "2026-08-07T19:15:18+00:00"
+    },
     {
       "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
       "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/f8/2bf8fcd4-1756-46ef-927b-394ec4814573/1851_07_28_berkowski.jpg",
       "pubDateIso": "2026-07-28T20:40:00+00:00"
-    },
-    {
-      "title": "Predatory Sharks Grew to Enormous Sizes in Prehistoric Times. These Five Strategies Helped Them Get So Big",
-      "link": "https://www.smithsonianmag.com/science-nature/predatory-sharks-grew-to-enormous-sizes-in-prehistoric-times-these-five-strategies-helped-them-get-so-big-180989199/",
-      "pubDate": "Mon, 27 Jul 2026 18:22:30 +0000",
-      "summary": "By cannibalizing their siblings in the womb or avoiding meat-eating pliosaurs, fearsome carnivores like the megalodon ballooned to proportions that would dwarf any shark alive today",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/c2/3ec2180a-a238-4b81-8841-2285409305be/img_2825.jpg",
-      "pubDateIso": "2026-07-27T18:22:30+00:00"
     }
   ]
 }
