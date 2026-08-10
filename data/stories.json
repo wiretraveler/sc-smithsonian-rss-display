@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-10T13:26:37Z",
+  "generatedAt": "2026-08-10T14:36:38Z",
   "stories": [
+    {
+      "title": "'Like a Hole in the Universe': Artemis 2 Astronaut Victor Glover Reflects on Seeing a Total Solar Eclipse While Flying by the Moon",
+      "link": "https://www.smithsonianmag.com/science-nature/like-a-hole-in-the-universe-artemis-2-astronaut-victor-glover-reflects-on-seeing-a-total-solar-eclipse-while-flying-by-the-moon-180989284/",
+      "pubDate": "Mon, 10 Aug 2026 14:11:30 +0000",
+      "summary": "The four astronauts who rounded Earth’s natural satellite in April got an extremely rare view of the dark lunar disk blocking out the sun. Researchers say the observations provide unique scientific value for understanding our star’s mysteries",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/62/2562045d-82e2-464d-8843-0e06165e4b09/art002e009301large.jpg",
+      "pubDateIso": "2026-08-10T14:11:30+00:00"
+    },
     {
       "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
       "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
       "pubDateIso": "2026-07-31T22:33:21+00:00"
-    },
-    {
-      "title": "A Little-Known Photographer Captured the First Clear Image of a Total Solar Eclipse 175 Years Ago. Today, These Celestial Events Still Reveal the Mysteries of the Sun",
-      "link": "https://www.smithsonianmag.com/science-nature/a-little-known-photographer-captured-the-first-clear-image-of-a-total-solar-eclipse-175-years-ago-today-these-celestial-events-still-reveal-the-mysteries-of-the-sun-180989208/",
-      "pubDate": "Tue, 28 Jul 2026 20:40:00 +0000",
-      "summary": "Ever since that first daguerreotype on a light-sensitive metal plate, eclipse observations have continued to unveil the star's corona and bring people together to experience the solar system's majesty",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/f8/2bf8fcd4-1756-46ef-927b-394ec4814573/1851_07_28_berkowski.jpg",
-      "pubDateIso": "2026-07-28T20:40:00+00:00"
     }
   ]
 }
