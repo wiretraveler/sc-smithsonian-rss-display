@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-11T11:49:46Z",
+  "generatedAt": "2026-08-11T13:01:17Z",
   "stories": [
+    {
+      "title": "Could Psilocybin Help Treat Anorexia? A Small Clinical Trial Suggests the Psychedelic May Make Patients More Open to Recovery",
+      "link": "https://www.smithsonianmag.com/science-nature/could-psilocybin-help-treat-anorexia-a-small-clinical-trial-suggests-the-psychedelic-may-make-patients-more-open-to-recovery-180989261/",
+      "pubDate": "Tue, 11 Aug 2026 12:30:00 +0000",
+      "summary": "The drug, paired with intensive psychological support, may loosen the rigid patterns of thought associated with the eating disorder, scientists say—but they caution that it is not a magic cure",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/9d/039dfbc7-b058-4b71-876d-a8baec6035af/psilocybe_pelliculosa_122504.jpg",
+      "pubDateIso": "2026-08-11T12:30:00+00:00"
+    },
     {
       "title": "'Like a Hole in the Universe': Artemis 2 Astronaut Victor Glover Reflects on Seeing a Total Solar Eclipse While Flying by the Moon",
       "link": "https://www.smithsonianmag.com/science-nature/like-a-hole-in-the-universe-artemis-2-astronaut-victor-glover-reflects-on-seeing-a-total-solar-eclipse-while-flying-by-the-moon-180989284/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/24/e324213d-fa26-4d47-8d3d-b1b644073b7c/ezgif-5b106ff19bd5d795.jpg",
       "pubDateIso": "2026-08-05T19:13:11+00:00"
-    },
-    {
-      "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
-      "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
-      "pubDate": "Fri, 31 Jul 2026 22:33:21 +0000",
-      "summary": "A century ago, resident wolves were eliminated from the park. In 1995, biologists brought them back, marking a historic reintroduction of a top carnivore",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
-      "pubDateIso": "2026-07-31T22:33:21+00:00"
     }
   ]
 }
