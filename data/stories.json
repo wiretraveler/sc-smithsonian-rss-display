@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-14T12:24:14Z",
+  "generatedAt": "2026-08-14T13:52:10Z",
   "stories": [
+    {
+      "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
+      "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
+      "pubDate": "Fri, 14 Aug 2026 13:00:00 +0000",
+      "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area. Scientists took the rare opportunity to closely observe their behavior, and what they uncovered might help at-risk porpoise populations",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/e0/cde0be65-76a1-4453-a9e9-74aebe7e59c7/gettyimages-1298809492.jpg",
+      "pubDateIso": "2026-08-14T13:00:00+00:00"
+    },
     {
       "title": "Could Psilocybin Help Treat Anorexia? A Small Clinical Trial Suggests the Psychedelic May Make Patients More Open to Recovery",
       "link": "https://www.smithsonianmag.com/science-nature/could-psilocybin-help-treat-anorexia-a-small-clinical-trial-suggests-the-psychedelic-may-make-patients-more-open-to-recovery-180989261/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/90/9f9029db-fc9c-46d3-92b9-6559bc6c5ae8/d98c8b.jpg",
       "pubDateIso": "2026-08-06T19:32:33+00:00"
-    },
-    {
-      "title": "A New Study Points to Two Origins of Life on Earth by Tracing Early Chemical Reactions in Single-Celled Organisms",
-      "link": "https://www.smithsonianmag.com/science-nature/a-new-study-points-to-two-origins-of-life-on-earth-by-tracing-early-chemical-reactions-in-single-celled-organisms-180989260/",
-      "pubDate": "Wed, 05 Aug 2026 19:13:11 +0000",
-      "summary": "The work challenges the assumption that all life descended from one free-living cell. Instead, it suggests that two microbial lineages, the bacteria and archaea, evolved independently from a primordial, nonliving ancestor",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/24/e324213d-fa26-4d47-8d3d-b1b644073b7c/ezgif-5b106ff19bd5d795.jpg",
-      "pubDateIso": "2026-08-05T19:13:11+00:00"
     }
   ]
 }
