@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-18T15:59:03Z",
+  "generatedAt": "2026-08-18T16:39:56Z",
   "stories": [
+    {
+      "title": "Earth's Organisms Developed Via Evolution. Some Theorists Wonder: What if the Entire Cosmos Did, Too?",
+      "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
+      "pubDate": "Tue, 18 Aug 2026 16:00:01 +0000",
+      "summary": "The idea that universes evolve like organisms sat on the fringes of theoretical physics for decades. Then, a Substack post and a 2022 find by the James Webb Space Telescope boosted the concept",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/48/11487635-0fac-4b64-baa7-f7f3cb941e79/image_1.png",
+      "pubDateIso": "2026-08-18T16:00:01+00:00"
+    },
     {
       "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
       "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/76/837646bc-4431-4d99-843a-4df325ee157f/08_-_koalas_cr_joel_sartore-national_geographic_photo_ark_11481509.jpg",
       "pubDateIso": "2026-08-07T19:15:18+00:00"
-    },
-    {
-      "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
-      "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
-      "pubDate": "Thu, 06 Aug 2026 19:32:33 +0000",
-      "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment and local economies, if protected",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/90/9f9029db-fc9c-46d3-92b9-6559bc6c5ae8/d98c8b.jpg",
-      "pubDateIso": "2026-08-06T19:32:33+00:00"
     }
   ]
 }
