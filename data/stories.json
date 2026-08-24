@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-24T16:54:21Z",
+  "generatedAt": "2026-08-24T17:29:17Z",
   "stories": [
+    {
+      "title": "Once the Solar System's Ninth Planet, Pluto Was Reclassified 20 Years Ago. Here's Why Planetary Scientists and the Public Alike Love the Small Icy Body",
+      "link": "https://www.smithsonianmag.com/science-nature/once-the-solar-systems-ninth-planet-pluto-was-reclassified-20-years-ago-heres-why-planetary-scientists-and-the-public-alike-love-the-small-icy-body-180989383/",
+      "pubDate": "Mon, 24 Aug 2026 17:00:00 +0000",
+      "summary": "Pluto is now the most well known of the outer worlds beyond Neptune—and the darling of the solar system",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/ca/b8ca0461-2014-4fb0-acb3-a69a31056fb0/gettyimages-480661458.jpg",
+      "pubDateIso": "2026-08-24T17:00:00+00:00"
+    },
     {
       "title": "Earth's Organisms Developed Via Evolution. Some Theorists Wonder: What if the Entire Cosmos Did, Too?",
       "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/62/2562045d-82e2-464d-8843-0e06165e4b09/art002e009301large.jpg",
       "pubDateIso": "2026-08-10T14:11:30+00:00"
-    },
-    {
-      "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
-      "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
-      "pubDate": "Fri, 07 Aug 2026 19:15:18 +0000",
-      "summary": "For 20 years, the National Geographic photographer has showcased Earth’s animals in a series of striking images that make even the tiniest creatures look immense",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/76/837646bc-4431-4d99-843a-4df325ee157f/08_-_koalas_cr_joel_sartore-national_geographic_photo_ark_11481509.jpg",
-      "pubDateIso": "2026-08-07T19:15:18+00:00"
     }
   ]
 }
