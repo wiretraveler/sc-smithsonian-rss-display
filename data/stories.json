@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-25T11:04:09Z",
+  "generatedAt": "2026-08-25T11:43:07Z",
   "stories": [
+    {
+      "title": "Africa’s Wild Dogs Are the Most Hated Carnivores on the Continent. Here’s How Some Conservationists Are Saving Them Anyway.",
+      "link": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-how-conservationists-saving-them-anyway-180989287/",
+      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0000",
+      "summary": "Meet the team that closely monitors the playful canines, who need help to form diverse packs and stop heir numbers from dwindling",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/23/152387e3-9e0c-4a80-80b4-c5bc781e0cf3/20240331-mw104784.jpg",
+      "pubDateIso": "2026-08-25T11:00:00+00:00"
+    },
     {
       "title": "Once the Solar System's Ninth Planet, Pluto Was Reclassified 20 Years Ago. Here's Why Planetary Scientists and the Public Alike Love the Small Icy Body",
       "link": "https://www.smithsonianmag.com/science-nature/once-the-solar-systems-ninth-planet-pluto-was-reclassified-20-years-ago-heres-why-planetary-scientists-and-the-public-alike-love-the-small-icy-body-180989383/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/9d/039dfbc7-b058-4b71-876d-a8baec6035af/psilocybe_pelliculosa_122504.jpg",
       "pubDateIso": "2026-08-11T12:30:00+00:00"
-    },
-    {
-      "title": "'Like a Hole in the Universe': Artemis 2 Astronaut Victor Glover Reflects on Seeing a Total Solar Eclipse While Flying by the Moon",
-      "link": "https://www.smithsonianmag.com/science-nature/like-a-hole-in-the-universe-artemis-2-astronaut-victor-glover-reflects-on-seeing-a-total-solar-eclipse-while-flying-by-the-moon-180989284/",
-      "pubDate": "Mon, 10 Aug 2026 14:11:30 +0000",
-      "summary": "The four astronauts who rounded Earth’s natural satellite in April got an extremely rare view of the dark lunar disk blocking out the sun. Researchers say the observations provide unique scientific value for understanding our star’s mysteries",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/62/2562045d-82e2-464d-8843-0e06165e4b09/art002e009301large.jpg",
-      "pubDateIso": "2026-08-10T14:11:30+00:00"
     }
   ]
 }
