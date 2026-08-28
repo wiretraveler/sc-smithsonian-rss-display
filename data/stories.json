@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-08-28T09:43:07Z",
+  "generatedAt": "2026-08-28T20:59:21Z",
   "stories": [
+    {
+      "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
+      "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
+      "pubDate": "Fri, 28 Aug 2026 12:00:00 +0000",
+      "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/ec/f2ec020f-24c3-4f7a-9eb6-28bf60c38489/djm_5654.jpg",
+      "pubDateIso": "2026-08-28T12:00:00+00:00"
+    },
     {
       "title": "Tennis Matches Are Heating Up, Literally. Here’s How the Court Became a Living Laboratory for Managing Extreme Temperatures",
       "link": "https://www.smithsonianmag.com/science-nature/tennis-matches-are-heating-up-literally-heres-how-the-court-became-a-living-laboratory-for-managing-extreme-temperatures-180989399/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/48/11487635-0fac-4b64-baa7-f7f3cb941e79/image_1.png",
       "pubDateIso": "2026-08-18T16:00:01+00:00"
-    },
-    {
-      "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
-      "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
-      "pubDate": "Fri, 14 Aug 2026 13:00:00 +0000",
-      "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area. Scientists took the rare opportunity to closely observe their behavior, and what they uncovered might help at-risk porpoise populations",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/e0/cde0be65-76a1-4453-a9e9-74aebe7e59c7/gettyimages-1298809492.jpg",
-      "pubDateIso": "2026-08-14T13:00:00+00:00"
     }
   ]
 }
