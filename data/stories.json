@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-02T10:41:59Z",
+  "generatedAt": "2026-09-02T14:42:57Z",
   "stories": [
+    {
+      "title": "Spain’s White-Headed Ducks Have a Signature Color Right in the Name. And That Isn’t Even Their Most Remarkable Hue",
+      "link": "https://www.smithsonianmag.com/science-nature/spain-white-headed-ducks-signature-color-right-name-that-isnt-even-most-remarkable-hue-180989289/",
+      "pubDate": "Wed, 02 Sep 2026 13:00:00 +0000",
+      "summary": "The first thing you’re likely to notice is the blue bill. But beyond appearances, the duck has an exciting story to tell about conservation and recovery",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/ad/4bad4ddf-a163-43bb-a53b-b04d0329f13c/new_dsc3177_copia.jpg",
+      "pubDateIso": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "title": "Reptiles Make a Surprising Amount of Noise. Here's What Those Sounds Might Mean, From Pops to Hoots to Bellows",
+      "link": "https://www.smithsonianmag.com/science-nature/reptiles-make-a-surprising-amount-of-noise-heres-what-those-sounds-might-mean-from-pops-to-hoots-to-bellows-180989422/",
+      "pubDate": "Wed, 02 Sep 2026 11:30:00 +0000",
+      "summary": "Scientists are realizing that turtles, lizards and crocodilians communicate vocally more than they once thought",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/e6/2de6b572-7cca-4578-a75e-9a792b3f697a/8501263358_87b6347c3a_k.jpg",
+      "pubDateIso": "2026-09-02T11:30:00+00:00"
+    },
     {
       "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
       "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
@@ -27,24 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/23/152387e3-9e0c-4a80-80b4-c5bc781e0cf3/20240331-mw104784.jpg",
       "pubDateIso": "2026-08-25T11:00:00+00:00"
-    },
-    {
-      "title": "Once the Solar System's Ninth Planet, Pluto Was Reclassified 20 Years Ago. Here's Why Planetary Scientists and the Public Alike Love the Small, Icy Body",
-      "link": "https://www.smithsonianmag.com/science-nature/once-the-solar-systems-ninth-planet-pluto-was-reclassified-20-years-ago-heres-why-planetary-scientists-and-the-public-alike-love-the-small-icy-body-180989383/",
-      "pubDate": "Mon, 24 Aug 2026 17:00:00 +0000",
-      "summary": "Pluto is now the most well known of the outer worlds beyond Neptune—and the darling of the solar system",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/ca/b8ca0461-2014-4fb0-acb3-a69a31056fb0/gettyimages-480661458.jpg",
-      "pubDateIso": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "title": "Earth's Organisms Developed Via Evolution. Some Theorists Wonder: What if the Entire Cosmos Did, Too?",
-      "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-      "pubDate": "Tue, 18 Aug 2026 16:00:01 +0000",
-      "summary": "The idea that universes evolve like organisms sat on the fringes of theoretical physics for decades. Then, a Substack post and a 2022 find by the James Webb Space Telescope boosted the concept",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/48/11487635-0fac-4b64-baa7-f7f3cb941e79/image_1.png",
-      "pubDateIso": "2026-08-18T16:00:01+00:00"
     }
   ]
 }
