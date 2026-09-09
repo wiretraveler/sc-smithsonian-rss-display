@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-09T15:18:08Z",
+  "generatedAt": "2026-09-09T18:46:23Z",
   "stories": [
+    {
+      "title": "Peptides Are All the Rage, Promising Miracle Cures and Makeovers Delivered by Injection. How Did We Get Here?",
+      "link": "https://www.smithsonianmag.com/science-nature/peptides-are-all-the-rage-promising-miracle-cures-and-makeovers-delivered-by-injection-how-did-we-get-here-180989454/",
+      "pubDate": "Wed, 09 Sep 2026 18:28:15 +0000",
+      "summary": "Experts say the peptide craze is part of a broader phenomenon, as patients look beyond the regulated health system to address problems that doctors have struggled to treat",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/49/59497682-9b3c-4ff7-9d94-c78d21f661cc/gettyimages-2201698070.jpg",
+      "pubDateIso": "2026-09-09T18:28:15+00:00"
+    },
     {
       "title": "Spain’s White-Headed Ducks Have a Signature Color Right in the Name. And That Isn’t Even Their Most Remarkable Hue",
       "link": "https://www.smithsonianmag.com/science-nature/spain-white-headed-ducks-signature-color-right-name-that-isnt-even-most-remarkable-hue-180989289/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/a4/d2a4a5b3-aa84-4c59-933c-2965aa312980/img_7337.jpeg",
       "pubDateIso": "2026-08-27T12:00:00+00:00"
-    },
-    {
-      "title": "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent. Here's Why Some Conservationists Are Saving Them Anyway",
-      "link": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0000",
-      "summary": "Meet the team that closely monitors the playful canines, which need help to form diverse packs and stop their numbers from dwindling",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/23/152387e3-9e0c-4a80-80b4-c5bc781e0cf3/20240331-mw104784.jpg",
-      "pubDateIso": "2026-08-25T11:00:00+00:00"
     }
   ]
 }
