@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-16T09:57:02Z",
+  "generatedAt": "2026-09-16T14:42:43Z",
   "stories": [
+    {
+      "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
+      "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+      "pubDate": "Wed, 16 Sep 2026 13:43:20 +0000",
+      "summary": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research. However, scientists note that follow-up work is necessary to clarify the species’ lifespan",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c4/14c43964-f878-4613-99bf-1c76046c3dca/15813162892_742f224e67_o.jpg",
+      "pubDateIso": "2026-09-16T13:43:20+00:00"
+    },
     {
       "title": "Peptides Are All the Rage, Promising Miracle Cures and Makeovers Delivered by Injection. How Did We Get Here?",
       "link": "https://www.smithsonianmag.com/science-nature/peptides-are-all-the-rage-promising-miracle-cures-and-makeovers-delivered-by-injection-how-did-we-get-here-180989454/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/ec/f2ec020f-24c3-4f7a-9eb6-28bf60c38489/djm_5654.jpg",
       "pubDateIso": "2026-08-28T12:00:00+00:00"
-    },
-    {
-      "title": "Tennis Matches Are Heating Up, Literally. Here’s How the Court Became a Living Laboratory for Managing Extreme Temperatures",
-      "link": "https://www.smithsonianmag.com/science-nature/tennis-matches-are-heating-up-literally-heres-how-the-court-became-a-living-laboratory-for-managing-extreme-temperatures-180989399/",
-      "pubDate": "Thu, 27 Aug 2026 12:00:00 +0000",
-      "summary": "The sport’s hard-court surfaces can reach some 30 degrees hotter than the surrounding air. With elite players suffering heat illness on the world stage, athletes are following personalized cooling plans",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/a4/d2a4a5b3-aa84-4c59-933c-2965aa312980/img_7337.jpeg",
-      "pubDateIso": "2026-08-27T12:00:00+00:00"
     }
   ]
 }
