@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-18T11:50:41Z",
+  "generatedAt": "2026-09-18T15:53:41Z",
   "stories": [
+    {
+      "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
+      "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
+      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "summary": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/96/8696575f-21e0-4d7c-8edc-a86d1b808ee6/gettyimages-1402265692.jpg",
+      "pubDateIso": "2026-09-18T14:00:00+00:00"
+    },
     {
       "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
       "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/e6/2de6b572-7cca-4578-a75e-9a792b3f697a/8501263358_87b6347c3a_k.jpg",
       "pubDateIso": "2026-09-02T11:30:00+00:00"
-    },
-    {
-      "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
-      "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
-      "pubDate": "Fri, 28 Aug 2026 12:00:00 +0000",
-      "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/ec/f2ec020f-24c3-4f7a-9eb6-28bf60c38489/djm_5654.jpg",
-      "pubDateIso": "2026-08-28T12:00:00+00:00"
     }
   ]
 }
