@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-21T14:12:58Z",
+  "generatedAt": "2026-09-21T19:30:54Z",
   "stories": [
+    {
+      "title": "Archaeologists Are Reconstructing the Invisible Technologies of the Stone Age, From Rope to Thread and Twine",
+      "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "pubDate": "Mon, 21 Sep 2026 18:24:00 +0000",
+      "summary": "Largely missing from the archaeological record, fiber innovations played a huge role in the lives of early humans. Researchers are weaving together new insights from the traces they left behind",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/43/2a43872b-3e44-4548-8a9d-d5b7190a2469/soft-archaeology-1200x630.jpg",
+      "pubDateIso": "2026-09-21T18:24:00+00:00"
+    },
     {
       "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
       "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/ad/4bad4ddf-a163-43bb-a53b-b04d0329f13c/new_dsc3177_copia.jpg",
       "pubDateIso": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "title": "Reptiles Make a Surprising Amount of Noise. Here's What Those Sounds Might Mean, From Pops to Hoots to Bellows",
-      "link": "https://www.smithsonianmag.com/science-nature/reptiles-make-a-surprising-amount-of-noise-heres-what-those-sounds-might-mean-from-pops-to-hoots-to-bellows-180989422/",
-      "pubDate": "Wed, 02 Sep 2026 11:30:00 +0000",
-      "summary": "Scientists are realizing that turtles, lizards and crocodilians communicate vocally more than they once thought",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/e6/2de6b572-7cca-4578-a75e-9a792b3f697a/8501263358_87b6347c3a_k.jpg",
-      "pubDateIso": "2026-09-02T11:30:00+00:00"
     }
   ]
 }
