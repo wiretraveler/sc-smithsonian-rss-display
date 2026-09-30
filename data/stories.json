@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-30T14:55:03Z",
+  "generatedAt": "2026-09-30T19:50:58Z",
   "stories": [
+    {
+      "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
+      "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
+      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it. We asked health experts about the benefits and drawbacks of chasing protein",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/78/c678519b-88a7-4653-9c5c-3d93977dc6db/smithmag-protein-v3.jpg",
+      "pubDateIso": "2026-09-30T12:00:00+00:00"
+    },
     {
       "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age, From Rope to Thread and Twine",
       "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/49/59497682-9b3c-4ff7-9d94-c78d21f661cc/gettyimages-2201698070.jpg",
       "pubDateIso": "2026-09-09T18:28:15+00:00"
-    },
-    {
-      "title": "Spain’s White-Headed Ducks Have a Signature Color Right in the Name. And That Isn’t Even Their Most Remarkable Hue",
-      "link": "https://www.smithsonianmag.com/science-nature/spain-white-headed-ducks-signature-color-right-name-that-isnt-even-most-remarkable-hue-180989289/",
-      "pubDate": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "summary": "The first thing you’re likely to notice is the blue bill. But beyond appearances, the duck has an exciting story to tell about conservation and recovery",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/ad/4bad4ddf-a163-43bb-a53b-b04d0329f13c/new_dsc3177_copia.jpg",
-      "pubDateIso": "2026-09-02T13:00:00+00:00"
     }
   ]
 }
