@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-07T16:46:49Z",
+  "generatedAt": "2026-10-07T21:46:42Z",
   "stories": [
+    {
+      "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
+      "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+      "pubDate": "Wed, 07 Oct 2026 17:15:01 +0000",
+      "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted. With each new finding, our view of the “tyrant lizard king” has gotten a little clearer—and sometimes has radically shifted",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/fa/64faf4cf-cac2-4a8e-869a-c7249f6ce5db/gettyimages-1527433807.jpg",
+      "pubDateIso": "2026-10-07T17:15:01+00:00"
+    },
     {
       "title": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
       "link": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/43/2a43872b-3e44-4548-8a9d-d5b7190a2469/soft-archaeology-1200x630.jpg",
       "pubDateIso": "2026-09-21T18:24:00+00:00"
-    },
-    {
-      "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
-      "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
-      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "summary": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/96/8696575f-21e0-4d7c-8edc-a86d1b808ee6/gettyimages-1402265692.jpg",
-      "pubDateIso": "2026-09-18T14:00:00+00:00"
     }
   ]
 }
