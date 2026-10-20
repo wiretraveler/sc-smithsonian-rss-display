@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-20T07:32:59Z",
+  "generatedAt": "2026-10-20T13:00:05Z",
   "stories": [
+    {
+      "title": "The Race for Hydrogen Fuel Has Taken These Scientists to the Arctic Seafloor. But Can They Unlock Its Secrets Before It's Too Late?",
+      "link": "https://www.smithsonianmag.com/science-nature/the-race-for-hydrogen-fuel-has-taken-these-scientists-to-the-arctic-seafloor-but-can-they-unlock-its-secrets-before-its-too-late-180989707/",
+      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "summary": "On challenging expeditions, researchers have collected deep-sea bacteria that naturally produce hydrogen, exploring and documenting an ancient ecosystem that may soon be altered forever",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/e5/79e5d588-cf1a-4eb7-83e6-10bd2660882f/20250922_173312.jpg",
+      "pubDateIso": "2026-10-20T12:00:00+00:00"
+    },
     {
       "title": "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
       "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/d3/98d34eb6-92fb-4ac8-97f5-aead47156fa1/1-773b9600-3419-4e37-a754-5ac1737254bb.jpg",
       "pubDateIso": "2026-10-02T15:21:12+00:00"
-    },
-    {
-      "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
-      "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
-      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it. We asked health experts about the benefits and drawbacks of chasing protein",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/78/c678519b-88a7-4653-9c5c-3d93977dc6db/smithmag-protein-v3.jpg",
-      "pubDateIso": "2026-09-30T12:00:00+00:00"
     }
   ]
 }
