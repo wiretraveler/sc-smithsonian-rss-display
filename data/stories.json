@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-27T06:16:32Z",
+  "generatedAt": "2026-10-27T12:32:59Z",
   "stories": [
+    {
+      "title": "Bats Thrive in a Messy, Noisy World. These Four Discoveries Reveal How They Can Listen and Chatter Through the Din",
+      "link": "https://www.smithsonianmag.com/science-nature/bats-thrive-in-a-messy-noisy-world-these-four-discoveries-reveal-how-they-can-listen-and-chatter-through-the-din-180989750/",
+      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "summary": "From eavesdropping to echolocation tricks, science is giving us an inside look into how various bat species weaponize sound",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/cf/6dcf196f-4e8d-4184-b2d3-07393bd0071e/gettyimages-1187899220.jpg",
+      "pubDateIso": "2026-10-27T12:00:00+00:00"
+    },
+    {
+      "title": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive",
+      "link": "https://www.smithsonianmag.com/science-nature/bison-used-roam-eastern-europe-before-neared-extinction-now-researchers-poland-create-suitable-home-where-can-thrive-180989640/",
+      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "summary": "Once nearly extinct, wisent adapted to life in the Bialowieza Forest. Human intervention kept them from disappearing, and now humans are trying to return them to their true habitat",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/50/105004ec-2c66-4a4f-ac6b-954f02e89398/nov2026_e10_bisoninpoland.jpg",
+      "pubDateIso": "2026-10-27T11:00:00+00:00"
+    },
     {
       "title": "Green Sea Turtles Are Making a Remarkable Comeback on the Remote Aldabra Atoll and Around the World. But Their Recovery Is Far From Complete",
       "link": "https://www.smithsonianmag.com/science-nature/green-sea-turtles-are-making-a-remarkable-comeback-on-the-remote-aldabra-atoll-and-around-the-world-but-their-recovery-is-far-from-complete-180989710/",
@@ -27,24 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/00/1600753a-4935-46f8-b80a-87852b71eb12/header-little-dams.jpg",
       "pubDateIso": "2026-10-16T17:15:00+00:00"
-    },
-    {
-      "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
-      "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
-      "pubDate": "Wed, 07 Oct 2026 17:15:01 +0000",
-      "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted. With each new finding, our view of the “tyrant lizard king” has gotten a little clearer—and sometimes has radically shifted",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/fa/64faf4cf-cac2-4a8e-869a-c7249f6ce5db/gettyimages-1527433807.jpg",
-      "pubDateIso": "2026-10-07T17:15:01+00:00"
-    },
-    {
-      "title": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
-      "link": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
-      "pubDate": "Fri, 02 Oct 2026 18:15:00 +0000",
-      "summary": "A new archaeological discovery suggests that people in present-day Georgia have feasted with cacao for 1,000 years",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/8b/088beb9a-0b0e-46e9-9a99-ec284db573b4/ezgif-79ce7fc33c96a2a6.jpg",
-      "pubDateIso": "2026-10-02T18:15:00+00:00"
     }
   ]
 }
