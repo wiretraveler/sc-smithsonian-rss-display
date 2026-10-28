@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-28T07:26:41Z",
+  "generatedAt": "2026-10-28T14:19:36Z",
   "stories": [
+    {
+      "title": "Ben Franklin Wasn’t Serious When He Implied the Wild Turkey Would Be a ‘Respectable’ National Symbol … but He Wasn’t Wrong, Either",
+      "link": "https://www.smithsonianmag.com/science-nature/ben-franklin-wasnt-serious-when-implied-wild-turkey-respectable-national-symbol-wasnt-wrong-180989642/",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "summary": "The birds strutted around North America for hundreds of thousands of years before hunters decimated their population. Credit its recovery to resourcefulness, a stubborn disposition and a little help",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/28/a828c064-e027-42b4-b3a2-7796c66acf86/untitled-3.jpg",
+      "pubDateIso": "2026-10-28T10:00:00+00:00"
+    },
     {
       "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and, With Nothing to Lose, Planted Them. The Result Was Almost Biblical",
       "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/e0/07e08216-60d7-450f-903d-5f757079991e/nesting_green_turtle_on_aldabra_2_-_r_baxter.jpg",
       "pubDateIso": "2026-10-21T19:00:00+00:00"
-    },
-    {
-      "title": "The Race for Hydrogen Fuel Has Taken These Scientists to the Arctic Seafloor. But Can They Unlock Its Secrets Before It's Too Late?",
-      "link": "https://www.smithsonianmag.com/science-nature/the-race-for-hydrogen-fuel-has-taken-these-scientists-to-the-arctic-seafloor-but-can-they-unlock-its-secrets-before-its-too-late-180989707/",
-      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "summary": "On challenging expeditions, researchers have collected deep-sea bacteria that naturally produce hydrogen, exploring and documenting an ancient ecosystem that may soon be altered forever",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/e5/79e5d588-cf1a-4eb7-83e6-10bd2660882f/20250922_173312.jpg",
-      "pubDateIso": "2026-10-20T12:00:00+00:00"
     }
   ]
 }
