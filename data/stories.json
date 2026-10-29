@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-29T09:23:36Z",
+  "generatedAt": "2026-10-29T16:19:56Z",
   "stories": [
+    {
+      "title": "The World's Newest Carnivorous Plant Is a Red Sundew That 'Death Hugs' Its Insect Prey. Its Survival Depends on a Rare and Disappearing Florida Habitat",
+      "link": "https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/",
+      "pubDate": "Thu, 29 Oct 2026 11:30:00 +0000",
+      "summary": "Confined to hidden sinkhole lakes in the Panhandle, the Florida threadleaf sundew is both a discovery and a warning bell for a vanishing ecosystem that’s long been ignored",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/e3/0be39cbe-d2e2-4a44-b1c2-f1c74ae3501d/ezgif-5b77062c295e61b3.jpg",
+      "pubDateIso": "2026-10-29T11:30:00+00:00"
+    },
     {
       "title": "Ben Franklin Wasn’t Serious When He Implied the Wild Turkey Would Be a ‘Respectable’ National Symbol … but He Wasn’t Wrong, Either",
       "link": "https://www.smithsonianmag.com/science-nature/ben-franklin-wasnt-serious-when-implied-wild-turkey-respectable-national-symbol-wasnt-wrong-180989642/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/50/105004ec-2c66-4a4f-ac6b-954f02e89398/nov2026_e10_bisoninpoland.jpg",
       "pubDateIso": "2026-10-27T11:00:00+00:00"
-    },
-    {
-      "title": "Green Sea Turtles Are Making a Remarkable Comeback on the Remote Aldabra Atoll and Around the World. But Their Recovery Is Far From Complete",
-      "link": "https://www.smithsonianmag.com/science-nature/green-sea-turtles-are-making-a-remarkable-comeback-on-the-remote-aldabra-atoll-and-around-the-world-but-their-recovery-is-far-from-complete-180989710/",
-      "pubDate": "Wed, 21 Oct 2026 19:00:00 +0000",
-      "summary": "One year after the species was reclassified from “endangered” to “least concern,” green turtles in the western Indian Ocean exemplify that return—and the subtleties a global designation can miss",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/e0/07e08216-60d7-450f-903d-5f757079991e/nesting_green_turtle_on_aldabra_2_-_r_baxter.jpg",
-      "pubDateIso": "2026-10-21T19:00:00+00:00"
     }
   ]
 }
