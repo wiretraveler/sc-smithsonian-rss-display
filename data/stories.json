@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-30T07:14:29Z",
+  "generatedAt": "2026-10-30T14:16:09Z",
   "stories": [
+    {
+      "title": "The Bloody Palette of the Animal Kingdom Goes Far Beyond Red. These Creatures Have Blood That Runs a Chilling Blue, Bright Green or Milky White",
+      "link": "https://www.smithsonianmag.com/science-nature/the-bloody-palette-of-the-animal-kingdom-goes-far-beyond-red-these-creatures-have-blood-that-runs-a-chilling-blue-bright-green-or-milky-white-180989752/",
+      "pubDate": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "summary": "The hemoglobin in humans’ blood is not the standard for all critters—and one group of Antarctic fish are the only vertebrates to not have red blood cells at all",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/45/b845724a-c3f4-4d80-9a7d-1520346b768d/blood-colors-1500x1000.jpg",
+      "pubDateIso": "2026-10-30T11:30:00+00:00"
+    },
     {
       "title": "The World's Newest Carnivorous Plant Is a Red Sundew That 'Death Hugs' Its Insect Prey. Its Survival Depends on a Rare and Disappearing Florida Habitat",
       "link": "https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/cf/6dcf196f-4e8d-4184-b2d3-07393bd0071e/gettyimages-1187899220.jpg",
       "pubDateIso": "2026-10-27T12:00:00+00:00"
-    },
-    {
-      "title": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive",
-      "link": "https://www.smithsonianmag.com/science-nature/bison-used-roam-eastern-europe-before-neared-extinction-now-researchers-poland-create-suitable-home-where-can-thrive-180989640/",
-      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "summary": "Once nearly extinct, wisent adapted to life in the Bialowieza Forest. Human intervention kept them from disappearing, and now humans are trying to return them to their true habitat",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/50/105004ec-2c66-4a4f-ac6b-954f02e89398/nov2026_e10_bisoninpoland.jpg",
-      "pubDateIso": "2026-10-27T11:00:00+00:00"
     }
   ]
 }
