@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-04T09:54:08Z",
+  "generatedAt": "2026-11-04T17:45:50Z",
   "stories": [
+    {
+      "title": "The Four-Color Theorem Has Haunted Mathematicians for Decades. It Just Got a Rare New Proof, but Some Still Long for a Simpler Solution",
+      "link": "https://www.smithsonianmag.com/science-nature/the-four-color-theorem-has-haunted-mathematicians-for-decades-it-just-got-a-rare-new-proof-but-some-still-long-for-a-simpler-solution-180989799/",
+      "pubDate": "Wed, 04 Nov 2026 12:30:00 +0000",
+      "summary": "The famous problem asks whether a map can be filled in with only four colors such that the same color never borders itself. It has been solved with the help of computers, but some experts suggest an elusive, short answer is out there",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d8/6b/d86b33bf-ba91-4be7-ac86-157eab2eeda2/4c-theorem-crvico-santos-lede.jpg",
+      "pubDateIso": "2026-11-04T12:30:00+00:00"
+    },
     {
       "title": "The Bloody Palette of the Animal Kingdom Goes Far Beyond Red. These Creatures Have Blood That Runs a Chilling Blue, Bright Green or Milky White",
       "link": "https://www.smithsonianmag.com/science-nature/the-bloody-palette-of-the-animal-kingdom-goes-far-beyond-red-these-creatures-have-blood-that-runs-a-chilling-blue-bright-green-or-milky-white-180989752/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/95/3795362b-64a6-4d5f-b7df-67aa18192521/l2190910.jpg",
       "pubDateIso": "2026-10-27T14:00:00+00:00"
-    },
-    {
-      "title": "Bats Thrive in a Messy, Noisy World. These Four Discoveries Reveal How They Can Listen and Chatter Through the Din",
-      "link": "https://www.smithsonianmag.com/science-nature/bats-thrive-in-a-messy-noisy-world-these-four-discoveries-reveal-how-they-can-listen-and-chatter-through-the-din-180989750/",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-      "summary": "From eavesdropping to echolocation tricks, science is giving us an inside look into how various bat species weaponize sound",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/cf/6dcf196f-4e8d-4184-b2d3-07393bd0071e/gettyimages-1187899220.jpg",
-      "pubDateIso": "2026-10-27T12:00:00+00:00"
     }
   ]
 }
