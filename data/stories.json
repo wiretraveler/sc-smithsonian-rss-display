@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-13T10:33:38Z",
+  "generatedAt": "2026-11-13T18:05:03Z",
   "stories": [
+    {
+      "title": "GLP-1s Are Showing Promise Beyond Weight Loss. Could They Be 'Wonder Drugs' for Ailments Like Addiction, Dementia and Cancer?",
+      "link": "https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/",
+      "pubDate": "Fri, 13 Nov 2026 15:22:31 +0000",
+      "summary": "The medications seem to act on the brain’s reward circuitry and help regulate inflammation, which is why they might have so many positive effects. But research on many potential benefits is still preliminary, so clinical trials will truly put GLP-1s to the test",
+      "source": "Smithsonian",
+      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/d3/c1d36890-f11c-4dcc-a1c8-5de9455f5abb/smithmag-glp1s-1126.jpg",
+      "pubDateIso": "2026-11-13T15:22:31+00:00"
+    },
     {
       "title": "Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All",
       "link": "https://www.smithsonianmag.com/science-nature/fossil-footprints-in-brazil-hint-at-a-cougar-size-mammal-that-walked-among-dinosaurs-its-another-sign-that-some-early-beasts-grew-to-impressive-sizes-after-all-180989815/",
@@ -36,15 +45,6 @@
       "source": "Smithsonian",
       "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/45/b845724a-c3f4-4d80-9a7d-1520346b768d/blood-colors-1500x1000.jpg",
       "pubDateIso": "2026-10-30T11:30:00+00:00"
-    },
-    {
-      "title": "The World's Newest Carnivorous Plant Is a Red Sundew That 'Death Hugs' Its Insect Prey. Its Survival Depends on a Rare and Disappearing Florida Habitat",
-      "link": "https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/",
-      "pubDate": "Thu, 29 Oct 2026 11:30:00 +0000",
-      "summary": "Confined to hidden sinkhole lakes in the Panhandle, the Florida threadleaf sundew is both a discovery and a warning bell for a vanishing ecosystem that’s long been ignored",
-      "source": "Smithsonian",
-      "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/e3/0be39cbe-d2e2-4a44-b1c2-f1c74ae3501d/ezgif-5b77062c295e61b3.jpg",
-      "pubDateIso": "2026-10-29T11:30:00+00:00"
     }
   ]
 }
